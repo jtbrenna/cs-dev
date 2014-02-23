@@ -1,0 +1,52 @@
+<!-- REMOVE THIS SCRIPT CODE IF YOU LIKE YOUR MENU TO STAY OPEN -->
+ <script>
+ $(document).ready(function() { 
+ 	$('.aButton').click(function() {
+ 		if($(this).next().is(':visible')) {
+ 			$(this).next().fadeOut('normal');
+ 				$(this).css("background", "transparent url('/www/images/templates/sm_plus.jpg') no-repeat top left");
+
+ 		} else {	
+ 			$(this).next().fadeIn('normal'); 			
+ 			 $(this).css("background", "transparent url('/www/images/templates/sm_minus.jpg') no-repeat top left");
+
+ 		}
+ 	});
+ 	$(".aContent").hide();
+ 		$(".aButton").css("background", "transparent url('/www/images/templates/sm_plus.jpg') no-repeat top left");
+ 	
+
+ });
+ </script>
+<!-- KEEP EVERYTHING BELOW -->
+
+
+
+
+
+
+ <h4>Faculty Directory</h4>
+
+<div id="folding_list">
+
+<h5 class="aButton">Full-Time Faculty</h5>
+
+	<ul class="aContent">
+		<li><a href="">Facuty One</a></li>
+		<li><a href="">Faculty Two</a></li>
+		<li><a href="">Faculty Three</a></li>
+		<li><a href="">Faclty Four</a></li>
+		<li><a href="">Faculty Five</a></li>
+	</ul>
+	
+<h5 class="aButton">Part-Time Faculty</h5>
+
+	<ul class="aContent">
+		<li><a href="">Facuty One</a></li>
+		<li><a href="">Faculty Two</a></li>
+		<li><a href="">Faculty Three</a></li>
+		<li><a href="">Faclty Four</a></li>
+		<li><a href="">Faculty Five</a></li>
+	</ul>
+	
+</div>

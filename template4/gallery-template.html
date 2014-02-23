@@ -1,0 +1,46 @@
+<h3>Alumni</h3>
+<div id="intro">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque blandit tortor eu lorem tristique vel faucibus lorem tincidunt. Nunc justo libero, mollis nec gravida quis, commodo condimentum leo. Suspendisse urna tortor, bibendum ut semper id, tincidunt a est.</p> 
+</div>
+<div class="flexsliderwrapper">
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="images/gallery1.jpg" alt="Waterman Building UVM Campus" />
+    </li>
+    <li>
+      <img src="images/gallery2.jpg" alt="University Row UVM Campus" />
+    </li>
+    <li>
+      <img src="images/gallery3.jpg" alt="Dudley Davis Student Center UVM Campus" />
+    </li>
+    <li>
+      <img src="images/gallery4.jpg" alt="James M. Jeffords Hall UVM Campus" />
+    </li>
+    <li>
+      <img src="images/gallery5.jpg" alt="Health Science Research Facility" />
+    </li>
+    <li>
+      <img src="images/gallery8.jpg" alt="Sunset on Lake Champlain" />
+    </li>
+    <li>
+      <img src="images/gallery6.jpg" alt="Burlington Community Boathouse, Lake Champlain" />
+    </li>
+    <li>
+      <img src="images/gallery7.jpg" alt="Church Street Marketplace Burlington" />
+    </li>
+  </ul>
+</div>
+</div>
+<script type="text/javascript" src="/www/js/jquery.flexslider-min.js"></script>
+<script>
+var flexsliderStylesLocation = "/www/css/flexslider.css";
+$('<link rel="stylesheet" type="text/css" href="'+flexsliderStylesLocation+'" >')
+   .appendTo("head");
+$(window).load(function() {
+  $('.flexslider').flexslider({
+    animation: "slide",
+    animationLoop: false
+  });
+});
+</script>
