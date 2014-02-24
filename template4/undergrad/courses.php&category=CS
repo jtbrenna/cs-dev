@@ -1,0 +1,19 @@
+
+<!-- SUB-BANNER INCLUDE -->
+<?php
+include('_undergradsubbanner.html');
+?>
+
+<!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<?php
+include('_undergradsuppnav.html');
+?>
+
+<?php
+$default_term = 200709;
+require_once "{$_SERVER['UVMMAGIC']}/plugins/courses/Course_Catalogue_Web.php";
+$course =& new Course_Catalogue_Web($debug);
+$course->setDefaultTerm($default_term);
+print $course->browse($_REQUEST);
+?>
+
