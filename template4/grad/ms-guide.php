@@ -1,7 +1,10 @@
 <!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<div class="rightcolumn_float">
 <?php
 include('_gradsuppnav.html');
 ?>
+</div>
+
 <style type="text/css">
 <!--
 .style1 {font-weight: bold}

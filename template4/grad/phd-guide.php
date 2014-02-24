@@ -1,8 +1,10 @@
 
 <!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<div class="rightcolumn_float">
 <?php
 include('_gradsuppnav.html');
 ?>
+</div>
 
 <h3><span class="insideh3">Graduate Program</span><br />
 Guide to the Ph.D. Program in Computer Science</h3>

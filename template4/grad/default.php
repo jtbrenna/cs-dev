@@ -1,8 +1,10 @@
 
 <!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<div class="rightcolumn_float">
 <?php
 include('_gradsuppnav.html');
 ?>
+</div>
 <center>
 <table bgcolor=yellow border=3 bordercolor=red><tr><td>
 <input type=button value='CS Graduate Research Assistantships Available!' onclick='javascript:window.location="http://www.uvm.edu/~cems/cs/?Page=grad/gra.html";'>
