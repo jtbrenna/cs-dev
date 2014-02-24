@@ -1,11 +1,10 @@
 
 <!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<div class="rightcolumn_float">
 <?php
 include('_undergradsuppnav.html');
 ?>
-
-
-
+</div>
 
 <h3>Undergraduate Programs</h3>
 

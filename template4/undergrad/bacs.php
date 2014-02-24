@@ -1,8 +1,10 @@
 
 <!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<div class="rightcolumn_float">
 <?php
 include('http://www.uvm.edu/~cems/cs/undergrad/_undergradsuppnav.html');
 ?>
+</div>
 
 <h3>BA, Major in Computer Science<br >
 2013-14</h3>
