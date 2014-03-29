@@ -1,0 +1,67 @@
+
+CS GROUP MEMBERS:
+
+Abdullah Arslan
+Abdullah.Arslan@uvm.edu 
+aarslan
+
+
+Jeanne Douglas
+Jeanne.Douglas@uvm.edu
+jmdougla
+ 
+
+Bob Erickson
+Robert.Erickson@uvm.edu
+rerickso
+
+
+Byung Lee
+Byung.Lee@uvm.edu
+bslee 
+
+
+Alan Ling
+Alan.Ling@uvm.edu 
+aling
+
+
+Jackie Redmond 
+Jackie.Redmond@uvm.edu
+jredmond
+
+
+Sean Wang
+Sean.Wang@uvm.edu
+xwang4
+
+
+Xindong Wu
+Xindong.Wu@uvm.edu
+xwu
+
+
+
+INSTRUX TO GROUP MEMBERS:
+
+You have access to the "cs" folder.  Use your UVM netID and password.  You can access it in one of two ways:
+
+The CIFS share is:  \\zoofiles\cemswebcs
+
+Or to FTP, the host name is:  zoo.uvm.edu
+The directory is:  ~cems/public_html/cs/
+
+
+
+
+
+
+
+QUESTIONS:
+
+MS Guide:
+
+
+-  csgrad-info@emba.uvm.edu
+   What is the new email?
+

@@ -1,0 +1,41 @@
+Hi All,
+
+As you know, the new Computer Science website is live.  So that you may make 
+changes to pages, you have access to the "cs" folder (permissions cannot be 
+granted to specific folders within this).
+
+You can access the cs folder using your UVM netID and password.  Just map the 
+following drive:
+
+\\zoofiles\cemswebcs
+
+Inside the cs folder, you will find the following folders:
+
+gfx:        graphics
+grad:       Graduate Programs
+newsevents: News and Seminars
+research:   Research
+undergrad:  Undergraduate Programs
+welcome:    Chair's Welcome, Contact information, FAQs, Mission
+
+I still have to transfer the following pages from the old website into the new 
+template (currently the links go to the old website, but without the old 
+navigational structure, i.e., just content):  
+
+- In Research: Distributed Systems Group, abstracts of Technical Reports, 
+Research Days
+- In News & Events:  abstracts of Seminar topics
+
+If you have any questions about the new pages, please let me know.  I'm happy 
+to meet with you.  I've already met with several people who were lucky (or unlucky :-) enough to be around last week when I was going over the Undergrad pages with Jeanne.
+
+I apologize for my slowness in granting access, but I was experiencing difficulties in getting the university to set permissions properly.  If you experience any problems, please let me know right away.
+
+Thanks,
+--Keri
+_____________________
+
+Keri Toksu
+CEMS Web Developer
+University of Vermont
+ktoksu@cems.uvm.edu

@@ -1,0 +1,915 @@
+<html>
+
+<head>
+
+<title> UVM Computer Science RPT and Annual Review Guidelines </title>
+
+</head>
+
+<BODY bgcolor="#ffffee">
+
+<h2>UVM Computer Science RPT and Annual Review Guidelines</h2>
+
+<hr>
+Last modified: March 8, 2004.<br>
+<!--
+<!--#config timefmt="%B %d, %Y" -->
+<!--#echo var="LAST_MODIFIED" -->.<br>
+-->
+
+<a name="Contents">
+<h3>Table of Contents</a></h3>
+
+  <ol>
+
+ <li><a href="#Introduction">Introduction</a>
+ <li><a href="#Department Considerations">Department Considerations</a>
+
+ <li><a href="#RPT Evaluations">RPT Evaluations in Computer Science</a>
+
+<ul>
+
+<li> 3.1 <a href="#Student Selection">Student Selection for Teaching
+and Advising Evaluations</a>
+
+<li> 3.2 <a href="#Peer Teaching Evaluations">Peer Teaching Evaluations</a>
+
+<li> 3.3 <a href="#Advising">Advising</a>
+
+<li> 3.4 <a href="#Research">Research</a>
+
+<li> 3.5 <a href="#Arm's-Length Evaluators">Selection of Arm's-Length
+Evaluators</a>
+
+<ul>
+
+<li> 3.5.1
+<a href="#Arm's-Length - Numbers">Numbers of Arm's-Length Evaluators</a>
+
+<li> 3.5.2
+<a href="#Arm's-Length - Selection">The Selection Process</a>
+
+</ul>
+
+<li> 3.6 <a href="#Faculty Input and Eligible Voters">Faculty Input
+and Eligible Voters for RTP Reviews</a>
+
+<ul>
+
+<li> 3.6.1 <a href="#Faculty Input">Faculty
+Input and Schedule for RTP Reviews</a>
+
+<li> 3.6.2 
+<a href="#Eligible Voters">Eligible Voters for RTP Reviews</a>
+
+</ul>
+
+<li> 3.7 <a href="#Senior Lecturer">Guidelines for Promotion to Senior
+Lecturer</a>
+
+<li> 3.8 <a href="#Associate Professor">Tenure and Promotion to
+Associate Professor</a>
+
+<ul>
+
+<li> 3.8.1
+<a href="#T&P Reviews">Mandatory vs. Requested T&P Reviews</a>
+
+<li> 3.8.2
+<a href="#Withdrawal">Withdrawal of Early-Tenure Applications</a>
+
+</ul>
+
+<li> 3.9 <a href="#Professor">Promotion to the Rank of Professor</a>
+
+<li> 3.10 <a href="#Research Promotion">Promotion to Research
+Associate Professor and Research Professor</a>
+
+</ul>
+
+ <li><a href="#Annual Review">Annual Faculty Evaluations</a>
+
+<ul>
+
+<li> 4.1 <a href="#Percentages of Effort">Percentages of Faculty
+Effort</a>
+
+<li> 4.2 <a href="#Chair's Evaluation">Chair's Evaluation on Annual
+Faculty Performance</a>
+
+</ul>
+
+ <li><a href="#Rebuttal and Appeal">Rebuttal and Appeal</a>
+<br>
+<br>
+<a href="#process">Appendix A: Generation Process of These Guidelines</a>
+<br>
+<a href="#annual-form">Appendix B: Annual Faculty Activity Report Form</a>
+<br>
+<a href="#UVM-Criteria">Appendix C: University Criteria in
+Appointment, Reappointment, Promotion, and Tenure Decisions</a>
+
+  </ol>
+
+<a name="Introduction">
+<h3>1. Introduction</h3>
+
+In accordance with the <a
+href="http://www.uvm.edu/~provost/acadunionagrmt.pdf">Agreement
+Between the University of Vermont and United Academics (AAUP/AFT)</a>
+(referred to as the Union Contract hereafter), this document is
+developed to provide RPT (reappointment, promotion and tenure) and
+annual review guidelines in the Department of Computer Science.  <a
+href="#process">Appendix A</a> provides a summary on how this document
+was prepared.
+
+<a name="Department Considerations">
+<h3>2. Department Considerations</h3>
+
+The Department of Computer Science is a research-oriented
+department. The Department upholds and strengthens the mission of the
+University of Vermont towards the provision of innovation in research
+and scholarship, excellence in instruction, and public service to the
+citizens of the state, nation and world.  The Department aspires to be
+a center of excellence in teaching computer science at all levels,
+emphasizing both long-term academic preparation and shorter-term
+economic importance; and as a center for excellence in research and
+graduate education by developing strengths in a small number of
+focused research areas and by exploiting Computer Science's unique
+opportunities for collaborations with other strong research areas in
+the University.
+
+<p>
+
+The Department is moving forward at a fast pace with our PhD program,
+and aims to become a first-rate Computer Science department in the
+near future.  Each faculty member (except non-tenure-track research
+faculty) is expected to be an effective teacher, and all research
+faculty and tenure-track faculty members are expected to be active
+researchers in their respective areas.  The quality criteria for
+effective teaching and active research can be found from the Criteria
+in Appointment, Reappointment, Promotion, and Tenure Decisions (see <a
+href="#UVM-Criteria">Appendix C below</a>) in the <a
+href="http://www.uvm.edu/~provost/Officers_Handbookrevised_03.pdf">University
+of Vermont Officers' Handbook</a>.
+
+<a name="RPT Evaluations">
+<h3>3. RPT Evaluations in Computer Science</h3>
+
+For reappointment, promotion and tenure (RPT) evaluations, the
+Department applies the Criteria in Appointment, Reappointment,
+Promotion, and Tenure Decisions in the University
+of Vermont Officers' Handbook and the criteria in the Officers of
+Instruction section in the Union Contract, and has the following
+additional specific descriptions.
+
+<!--
+<h4>Teaching</h4>
+
+Anything specific to mention?
+-->
+
+<a name="Student Selection">
+<h4>3.1 Student Selection for Teaching and Advising Evaluations</h4>
+
+<ol>
+
+<li> Numbers of students and advisees to be contacted (N).
+
+<p>
+
+The Chair will solicit teaching evaluations from N students and
+advising evaluations also from N advisees, where N is as follows for
+the following types of RTP reviews:
+
+<pre>
+  N: Type of review
+---  --------------------------------------------------------------------
+  4: Lecturer/Senior Lecturer re-appointments with green sheet reviews
+  4: First tenure-track re-appointments
+  6: Senior Lecturer promotions and second tenure-track re-appointments
+  8: Tenure and Associate/Full Professor promotions
+</pre>
+
+<li> The candidate will be asked to provide a list of N nominations
+for students and another list of N nominations for advisees.
+
+<p>
+
+<li> An ad-hoc committee will be formed each academic year by the
+Chair to provide N student nominations and N advisee nominations:
+
+<p>
+<ol TYPE=a>
+
+<li> The ad-hoc committee will consist of at least two members;
+
+<li> The Department Office will provide (i) the candidate's student
+lists with grades since the candidate's last greensheet review, and
+(ii) the candidate's current advisee list;
+
+<li> The ad-hoc committee will compile an initial list of at least
+1.5*N students and another initial list of at least 1.5*N advisees
+from (b); and
+
+<li> The candidate will be given a chance to look at these initial
+lists and cross out up to 0.5*N students from each list with reasons.
+
+</ol>
+<p>
+To maintain consistency, the ad hoc committee will be formed each
+academic year for all RTP candidates.
+<p>
+
+<li> The Chair will select N students and N advisees from (2) and
+(3.d).  These students and advisees will be contacted by both e-mail
+and registered mail, and the Chair will provide a memo in the
+candidate's greensheets on how the students and advisees are selected.
+
+</ol>
+
+<p>
+
+In the event that the same student is selected to evaluate both
+teaching and advising, he/she may write a single letter that addresses
+both teaching and advising.
+
+<a name="Peer Teaching Evaluations">
+<h4>3.2 Peer Teaching Evaluations</h4>
+
+For each greensheet review, 2 to 3 faculty members will be invited by
+the Chair to provide peer teaching evaluations. The candidate is
+allowed to name up to 2 faculty members in the Department who should
+not be invited for this purpose.
+
+<p>
+
+The peer teaching evaluations should come from qualified faculty, and
+some of them should come from eligible voters as defined in Section
+3.6.2 if at all possible.  For a candidate who teaches a service
+course, the Chair is encouraged to invite an appropriate faculty
+member from another department to provide a peer teaching evaluation.
+
+<p>
+
+The peer evaluators are advised to look over the candidate's course
+materials as well as attend at least one of the candidate's lectures.
+
+<p>
+
+<a name="Advising">
+<h4>3.3 Advising</h4>
+
+All teaching faculty under greensheet reviews are advised to have a
+separate section on advising in their greensheets, to provide
+information on their undergraduate, graduate, and postdoc supervision.
+In addition to student numbers, useful information would include:
+
+<ol>
+
+<li> How often the candidate meets with his/her students.
+
+<li> How actively the candidate contacts them when they need the
+advisor's help.
+
+<li> Which type of feedback the candidate gets from them (relevant
+correspondence would be useful to mention).
+
+<li> Whether the candidate has helped the Department in providing
+advising help.
+
+<!--
+<li> Possible joint publications with the students and postdocs.
+-->
+
+</ol>
+
+<a name="Research">
+<h4>3.4 Research</h4>
+
+All research, tenure-track, and tenured faculty members must provide
+"evidence that the candidate is continuously and effectively engaged
+in scholarly activity of high quality and significance" as required by
+the University RTP criteria (see Appendix C).  All tenured and
+tenure-track faculty members of the Department are expected to
+establish themselves as computer scientists, and their research is
+expected to have strong relevance to Computer Science.
+
+<p>
+
+Publication of refereed articles in both journals and conferences is
+very important; in some areas of computer science, publication in
+top-tier conferences is considered as prestigious as publication in
+top journals.  Acquisition of competitive grant and contract support
+is considered an indication of recognized research competence and
+productivity.  Similarly, invited lectures or publications, journal
+editorship, or service as a major officer in a professional society,
+may be considered as recognition of scholarly achievement.  Patents,
+software products, monographs, book chapters, unpublished conference
+presentations, and other products of scholarly activity may also be
+considered.
+
+<p>
+
+For peer-reviewed journal publications, the candidate is advised to
+provide information regarding the standards of the journal and its
+standing in the discipline. For conference proceedings, the candidate
+is asked to distinguish the level of peer-review (fully-refereed,
+abstract-refereed, non-refereed) and to provide information about the
+conference acceptance rates, if possible.  For monographs and book
+chapters, the candidate is advised to provide information regarding
+the review process of the press, and whether or not the work was
+invited.  Candidates are encouraged to outline the significant
+contributions of each major publication.
+
+<p>
+
+<a name="Co-Authors">
+
+Collaborative, interdisciplinary, and cross-disciplinary research is
+strongly encouraged.  For joint publications, the candidate should
+describe their role in the joint effort.  For all greensheet reviews
+but the first tenure-track reappointment, the candidate will be asked
+to provide contact information for co-authors with whom the candidate
+has created or published joint work since the last greensheet review.
+These co-authors will then be invited by the Chair to comment on their
+perception of the role of the candidate in their joint work.  For
+interdisciplinary or cross-disciplinary work, the candidate is advised
+to describe the nature of the publication venue and the relationship
+of the research to Computer Science.
+
+<a name="Arm's-Length Evaluators">
+<h4>3.5 Selection of Arm's-Length Evaluators</h4>
+
+For the following greensheet reviews, "arm's-length" evaluators will
+be solicited to provide external reports:
+
+<ul>
+
+<li> second re-appointment for years 6 and 7 of tenure-track
+faculty,
+
+<li> tenure and promotion to Associate Professor,
+
+<li> promotion to the rank of Professor, and
+
+<li> promotion to Research Associate Professor and Research Professor.
+
+</ul>
+
+Arm's-length evaluators are individuals who do not have a significant
+personal relationship with the candidate.  They are not former
+students, thesis advisors, former or present colleagues, co-authors,
+or collaborators.
+
+<p>
+
+Also, arm's-length evaluators should
+
+<ol> 
+
+<li> Be "acknowledged scholars and practitioners in the discipline of
+the candidate at other institutions. These scholars and practitioners
+should ... be capable of providing an objective, informed assessment
+of the candidate's work." [The Union Contract, Article 15, Clause 4,
+Page 30.]
+ 
+<li> Be tenured at their home universities (and for promotion to the
+rank of Professor or Research Professor, have the same or an
+equivalent rank), if they come from academia.
+
+<li> Have expertise in at least one of the candidate's research areas.
+
+</ol>
+
+The Chair will inform the arm's-length reviewers of all pertinent
+facts regarding the candidate, with the candidate's representative
+publications and other creative work, and will ask them for comments
+on
+
+<ul> 
+ 
+<li> the quality of the candidate's research, 
+<li> the candidate's research contributions to his/her research field,
+<li> the candidate's productivity relative to other 
+academics at a similar stage in  their career, 
+<li> the candidate's potential as a research leader, and
+
+<li> the publication and review standards of the journals and
+conference proceedings in which the candidate has published, and their
+standings in the discipline.
+
+</ul> 
+
+<a name="Arm's-Length - Numbers">
+<h5>3.5.1 Numbers of Arm's-Length Evaluators</h5>
+
+<ul> 
+ 
+<li> For a second re-appointment for years 6 and 7 of tenure-track
+faculty, the Chair will solicit 4 arm's-length evaluations.
+ 
+<li> For promotion to Research Associate Professor, the Chair will
+solicit 6 arm's-length evaluations.
+
+<li> For tenure and promotion to Associate Professor, the Chair will
+solicit 10 arm's-length evaluations. 
+
+<li> For promotion to the rank of Professor or Research Professor, the
+Chair will solicit 6 arm's-length evaluations.
+ 
+</ul> 
+
+<a name="Arm's-Length - Selection">
+<h5>3.5.2 The Selection Process</h5>
+
+N below refers to the number of arm's-length evaluators that the Chair
+will contact for each type of greensheet reviews, as defined in
+Section 3.5.1.
+
+<ol>  
+  
+<li> The candidate is asked to provide N nominations.
+
+<li> The Chair compiles N other names from other sources.
+
+<li> The Chair shows the N other names to the candidate and asks the
+candidate to identify (1) any names that are not at arm'- length, and
+(2) any names with whom the candidate has personal/professional
+disagreements.
+
+<li> The Chair selects and contacts N names from the combined list,
+with at least half from the candidate's list.
+
+<li> In the greensheets for all faculty to review, the Chair will list
+these N names and mention who were nominated by the candidate and who
+were solicited by the Chair independently.
+
+</ol>  
+
+<a name="Faculty Input and Eligible Voters">
+<h4>3.6 Faculty Input and Eligible Voters for RTP Reviews</h4>
+
+<a name="Faculty Input">
+<h5>3.6.1 Faculty Input and Schedule for RTP Reviews</h5>
+
+The Chair should set an appropriate schedule for each greensheet
+review, so that the complete greensheets will be ready for faculty
+review <i>at least 2 weeks before the submission deadline to the
+Dean's Office</i>.
+
+<p>
+
+Once the greensheets are ready for faculty review, all faculty
+members, tenured and untenured (including tenure-track faculty,
+Lecturers, and Senior Lecturers) will be invited to review the
+greensheets and share their advice concerning the candidate with the
+Chair within a week. The feedback will be documented in the Chair's
+Evaluation.
+
+<p>
+
+At the beginning of the second week after the greensheets are
+complete, the Chair will convene (i) a meeting of all faculty members
+to discuss the greensheets, and (ii) a closed session for all eligible
+voters (as defined in Section 3.6.2) to vote on whether or not to
+recommend the candidate's application.  This vote will be recorded in
+the Chair's Evaluation.
+
+<p>
+
+After the above faculty feedback and eligible voters' vote, the Chair
+will decide whether or not to recommend the candidate's application,
+and will inform the candidate with a detailed Chair's Evaluation.
+
+<a name="Eligible Voters">
+<h5>3.6.2 Eligible Voters for RTP Reviews</h4>
+
+When a candidate applies for promotion to a particular rank, only
+those faculty members who are already at this rank or above are
+eligible voters. When a candidate applies for reappointment at a
+particular rank, only those faculty members who have successfully
+passed their reappointment at this rank and will not be evaluated
+again for the same level of reappointment, are eligible voters.
+
+<ul>
+
+<li> For a Lecturer reappointment with a greensheet review, Senior
+Lecturers, tenure-track/tenured faculty members, and those Lecturers
+who have successfully passed a reappointment review in the past and
+are not applying for a reappointment in the current year, are eligible
+voters.
+
+<li> For a Senior Lecturer application, only Senior Lecturers and
+tenured faculty members are eligible voters.
+
+<li> For a Senior Lecturer reappointment with a greensheet review,
+only tenured faculty members are eligible voters.
+
+<li> For a research associate/research assistant professor
+reappointment with a greensheet review, tenure-track/tenured faculty
+members, Research Associate Professors, Research Professors, and those
+research associates/research assistant professors who have
+successfully passed a greensheet review in the past and are not
+applying for a reappointment in the current year, are eligible voters.
+
+<li> For a first tenure-track reappointment review, only tenured
+faculty members and those faculty who have successfully passed their
+first reappointment review are eligible voters.
+
+<li> For a second reappointment review, only tenured faculty members
+and those faculty who have successfully passed their second
+reappointment review are eligible voters.
+
+<li> For a tenure application, only tenured faculty members are
+eligible voters.
+
+<li> For a promotion application to Associate Professor, only Associate
+Professors and Professors are eligible voters.
+
+<li> For a promotion application to Professor, only Professors are
+eligible voters.
+
+<li> For a promotion application to Research Associate Professor, only
+Research Associate Professors, Research Professors, Associate
+Professors and Professors are eligible voters.
+
+<li> For a promotion application to Research Professor, only
+Professors and Research Professors are eligible voters.
+
+</ul>
+
+The Chair is not an eligible voter.  
+<!--
+If the number of eligible voters is less than 3 for a particular type
+of greensheet review, the Chair will consult with the candidate(s) and
+invite our secondary appointments at appropriate ranks to make up at
+least 3 eligible voters for each greensheet review.
+-->
+
+<a name="Senior Lecturer">
+<h4>3.7 Guidelines for Promotion to Senior Lecturer</h4>
+
+<i>The following guidelines for promotion to Senior Lecturer were
+formally approved by Dean Robert Jenkins on May 29, 2003.</i>
+<p>
+
+An application for Senior Lecturer in Computer Science will be
+evaluated on the following criteria.
+
+<ul>
+
+<li>  A minimum of 6 years (within an eight year period) of service, as
+    specified in the Union Contract
+<li>  Subject to a regular RTP review without the research
+    expectations
+<li>  A good citizenship in terms of service activities within the
+    Department
+<li>  Evidence of sustained quality teaching
+
+</ul>
+
+<a name="Associate Professor">
+<h4>3.8 Tenure and Promotion to Associate Professor</h4>
+
+<a name="T&P Reviews">
+<h5>3.8.1 Mandatory vs. Requested T&P Reviews</h5>
+
+<ul>
+
+<li> After 5 years' of service in a tenure-track position, a candidate
+for tenure and promotion will be notified by the Chair in the
+appropriate June that the review process must begin in the following
+academic year, and that the candidate is asked to nominate 6
+arm's-length evaluators with a given deadline.
+
+<li> A faculty member may become a candidate at an earlier date.  In
+such an early-tenure case, the faculty member should let the Chair
+know by the appropriate May. The Chair may provide some informal
+advice after possible consultation with tenured members in the
+Department, but the decision for early-tenure application is with the
+candidate.
+
+<li> The evaluation procedure is the same for both mandatory and
+requested reviews. A candidate for tenure and promotion in either case
+is expected to be an established researcher in his/her research field,
+in addition to the university criteria (see Appendix C).
+
+</ul>
+
+<a name="Withdrawal">
+<h5>3.8.2 Withdrawal of Early-Tenure Applications</h5>
+
+After the Chair's Evaluation in Section 3.6.1, an early-tenure
+candidate may choose to withdraw the current tenure and promotion
+application.
+
+<a name="Professor">
+<h4>3.9 Promotion to the Rank of Professor</h4>
+
+An Associate Professor who wishes to be considered for promotion to
+the rank of Professor should notify the Chair by the appropriate May
+so that arm's-length evaluators can be organized in the following
+summer.
+
+<p>
+
+Promotion to the rank of Professor requires a sustained record of
+excellence in teaching, research, and service, and the candidate
+should enjoy a recognized national or international reputation in
+his/her research field.
+
+<p>
+
+After the Chair's Evaluation in Section 3.6.1, a candidate for
+promotion to Professor may choose to withdraw the current application.
+
+<a name="Research Promotion">
+<h4>3.10 Promotion to Research Associate Professor and Research
+Professor</h4>
+
+A research faculty member may become a candidate for promotion by
+personal request or by recommendation of the Chair (who is the formal
+supervisor of each research faculty member in the Department).  Such a
+request or recommendation should be discussed in the appropriate May
+so that arm's-length evaluators can be organized in the following
+summer.
+
+<p>
+
+Research faculty members do not have teaching or service expectations
+in the Department, but if the candidate has performed significant
+teaching or service work, he/she may choose to include this work in
+the promotion greensheets.  
+
+<p>
+
+The candidate's research will be evaluated in a manner similar to that
+used by the Department in evaluating promotions to Associate
+Professor and Professor.
+
+<p>
+
+After the Chair's Evaluation in Section 3.6.1, a candidate for
+promotion may choose to withdraw the current application.
+
+<a name="Annual Review">
+<h3>4. Annual Faculty Evaluations</h3>
+
+In accordance with the Union Contract, the annual faculty review will
+focus on the faculty member's performance during the academic year in
+which the review takes place but will also take into account the
+faculty member's performance during the preceding two years.
+
+<p>
+
+In late January each year, each faculty member is requested to
+complete the Annual Faculty Activity Report form (see <a
+href="#annual-form">Appendix B below</a>) by February 15. The faculty
+may choose to include any additional relevant information.
+
+<p>
+
+In April each year, the Chair will meet with the faculty member to
+discuss the faculty member's performance and the following academic
+year's workload plan. Before or at this meeting, the faculty member
+can add any written information to the faculty member's Annual Faculty
+Activity Report. The Chair will provide a written evaluation for the
+faculty member at or after the meeting.
+
+<a name="Percentages of Effort">
+<h4>4.1 Percentages of Faculty Effort</h4>
+
+The percentages of effort devoted to each of the categories of
+teaching, research and scholarship, and service, are initially set in
+the annual April meeting between the Chair and the faculty member for
+returning faculty, and during the hiring process for new faculty.
+They are included in the faculty member's workload plan, and can be
+modified as appropriate or necessary during the following academic
+year.
+
+<p>
+
+The norms for these percentages are given below.
+
+<pre>
+Professor, Associate Professor and Assistant Professor
+
+                Teaching:        40% 
+                Research:        40% 
+                Service:         20%        
+
+Senior Lecturer, Lecturer
+
+                Teaching:        80%                 
+                Service:         20%        
+
+Research Professor, Research Associate Professor and Research
+Assistant Professor
+
+                Research:       100% 
+</pre>
+
+The faculty member may wish to focus his/her energy on one particular
+activity in a particular year.  In this case, the faculty member and
+the Chair should agree upon revised percentages at the annual April
+meeting and put them in the workload plan.
+
+<a name="Chair's Evaluation">
+<h4>4.2 Chair's Evaluation on Annual Faculty Performance</h4>
+
+Based on 
+
+<ol>
+
+<li> the workload plan for the current year, 
+<li> the Annual Faculty Activity Report, 
+<li> possible additional information from the faculty
+member before/at the annual April meeting, and
+<li> course evaluations and student feedback in the past
+calendar year,
+
+</ol>
+
+the Chair will evaluate the faculty member's performance in each of
+the categories of teaching, research and scholarship, and service, if
+its percentage in the workload plan is not zero.  The evaluation will
+apply quality indicators in the University criteria (in Appendix C)
+and in the additional Computer Science specific descriptions in
+Section 3 to review the faculty member's annual performance.
+
+<p>
+
+The Chair's evaluation of teaching excellence needs to be reflective
+of a more comprehensive look beyond just the numerical overall score
+on the student evaluation forms.
+
+<p>
+
+The Chair will also provide one of the following 3 overall ratings on
+the faculty member's annual performance:
+
+<ul>
+
+<li> <b>Outstanding.</b> An outstanding performance must achieve at
+least two <i>excellent</i> ratings in teaching, research and
+scholarship, and service, and should not have any serious shortcomings
+in the third category (if its percentage in the workload plan is not
+zero).  For a research faculty member who dedicates 100% of the effort
+to research, an <i>outstanding</i> rating in research is an
+outstanding performance.
+
+<li> <b>Unsatisfactory.</b> An unsatisfactory performance would have
+at least one <i>not acceptable</i> rating and no <i>excellent</i>
+ratings in teaching, research and scholarship, and service.
+
+<li> <b>Satisfactory.</b> A satisfactory performance is neither
+outstanding nor unsatisfactory.
+
+</ul>
+
+<a name="Rebuttal and Appeal">
+<h3>5. Rebuttal and Appeal</h3>
+
+After receiving the Chair's Evaluation on either a RTP review or an
+annual performance review, the faculty member may rebut or appeal,
+following the procedures described in the Union Contract or the
+Officer's Handbook.
+
+<a name="process"> 
+<h3>Appendix A: Generation Process of These Guidelines</h3>
+
+Xindong Wu (the Chair) wrote the first draft of this document, and
+sent it to all Computer Science faculty for feedback on February 24,
+2004.  The tenured faculty of the Department had a meeting on February
+27, 2004, to discuss this draft and some of the individual feedback.
+A revised version after this meeting and individual faculty feedback
+was discussed at a faculty meeting on March 4, 2004. A further revised
+version after the faculty meeting and some follow-up e-mail
+discussions was forwarded to all Computer Science faculty for possible
+further feedback on March 4, 2004, before this final version is sent
+to the Dean for approval on March 8, 2004.
+
+<a name="annual-form">
+<h3>Appendix B: Annual Faculty Activity Report Form</h3>
+
+<pre>
+Department of Computer Science
+University of Vermont
+
+Annual Faculty Activity Report
+==============================
+
+Name:
+
+Position/rank:
+
+Secondary appointment (if applicable): 
+
+Year:
+(January 1 - December 31)
+
+Date submitted:
+
+Notes: 
+
+ (1) Please submit your annual activity report by February 15.
+     If some of the items are not applicable to you, you can either
+     leave them blank, or delete them from your report submission.
+ (2) One copy of this report will be forwarded to the Dean's Office,
+     and another copy will be kept in your personnel file in the
+     Department Office.
+
+1. Teaching 
+
+   (a) Please fill out the table, including any computer lab
+       responsibilities.
+
+            Semester   Course/Section   Number of Enrollments
+      ---------------+----------------+------------------------
+
+   (b) Education development (information about new courses,
+       significant course revision, innovative teaching techniques
+       etc.)
+
+   (c) Advising:
+
+       (1) Number of undergraduate students advised (do not list
+           individual students)
+
+       (2) Graduate students (must be advisor of record)
+
+       (3) Graduate theses supervised to completion (must be advisor
+           of record)
+
+       (4) Number of graduate committees (list individual students'
+           names)
+
+2. Research
+
+   (a) Research areas:
+
+   (b) Publications (list only those published during the calendar
+       year with a complete author list for each publication)
+
+       (1) Refereed journal articles:
+
+       (2) Refereed conference papers:
+
+       (3) Books and book contributions:
+
+       (4) Non-refereed external publications (including invited ones):
+
+       (5) UVM Computer Science Technical Reports:
+
+   (c) Conference/workshop presentations (including invited talks):
+
+   (d) Seminars at other organizations:
+
+   (e) Seminars within UVM:
+
+   (f) Grants and grant applications made (title, PI list, funding
+       agency and funding status):
+
+   (g) Current funded projects (title, PI list, funding agency and
+       expected completion date):
+
+3. Service
+
+   (a) Departmental committees:
+
+   (b) College and University committees:
+
+   (c) Local community service:
+
+   (d) External professional service (regional and national
+       committees, editorships, reviews, etc.):
+
+   (e) Open houses, outreach and related activities:
+
+4. Honors and awards (including society awards, best paper awards,
+   student thesis awards, etc.)
+
+5. Other pertinent information.  Please include any further
+   information that you consider relevant to this year's activity.
+</pre>
+
+<a name="UVM-Criteria">
+<h3>Appendix C: University Criteria in Appointment, Reappointment,
+Promotion, and Tenure Decisions</h3>
+
+<i>The following is from the <a
+href="http://www.uvm.edu/~provost/Officers_Handbookrevised_03.pdf">University
+of Vermont Officers' Handbook</a> (pages 37-40).</i>
+
+<p>
+
+<!--#include file="Info/Officers_Handbook-RTP.txt"-->
+
+<p>
+
+<hr>
+This page has been accessed <img
+src="/cgi-bin/Count.cgi?ft=0&md=5&dd=C&df=cs-rpt.dat"
+align=absmiddle> times since February 24, 2004.<br>
+</html>

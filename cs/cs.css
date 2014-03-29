@@ -1,0 +1,1227 @@
+/* CS Edits to UVM General Styles */
+/* Keri Toksu, July 2008 */
+
+
+/* UVM Template Frame */
+#uvmmain {
+	width: 935px;
+}
+#mainframe {
+	min-width: 0;
+	width: 920px;
+}
+#uvmnavbar {
+	background: #eeeeee;
+	/*	background: #f9f4e8;  */
+	padding: .4em 10px .4em 78px;
+	text-align: center;
+}
+#uvmnavbar li {
+	padding: 0 8px;
+}
+#uvmnavbar a:link {
+	color: #717b32;
+	text-decoration: none;
+}
+#uvmnavbar a:visited {
+	color: #717b32;
+	text-decoration: none;
+}
+#uvmnavbar a:hover {
+	color: #717b32;
+	text-decoration: underline;
+}
+#uvmnavbar a:active {
+	color: #717b32;
+	text-decoration: none;
+}
+#uvmbanner a {
+	text-decoration: none;
+	color: #454545;
+}
+#uvmbanner a:hover {
+	color: #999;
+}
+#uvmnavbar a:hover {
+	color: #879d51;
+}
+/* UVM Main Content Area including Menus */
+#uvmcustomnav {
+	background: #658968;
+	margin-left: 200px;
+	margin-right: 15px;
+	padding: 5px 5px 5px 17px;
+	border-top: 1px solid #9e9e9e;
+	border-bottom: 1px solid #9e9e9e;
+}
+* html #uvmcustomnav {
+	margin-bottom: -20px;
+}
+#uvmcustomnav .cshead {
+	color: #fff;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+}
+* html #uvmcustomnav .cshead {
+	line-height: 40px;
+}
+#uvmcustomnav .cshead a:link {
+	color: #fff;
+	text-decoration: none;
+}
+#uvmcustomnav .cshead a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+#uvmcustomnav .cshead a:hover {
+	color: #dfe4ed;
+	text-decoration: none;
+}
+#uvmcustomnav .cshead a:active {
+	color: #fff;
+	text-decoration: none;
+}
+/* gets rid of vertical border at 200px */
+#uvmcustombanner2 {
+	border-left: 0;
+}
+* html #uvmcustombanner2 {
+	margin-bottom: 5px;
+}
+/* left-hand banner image */
+#uvmmainmenu img.defaultimg {
+	border-bottom: 1px solid #a08f8f;
+}
+* html #uvmmainmenu img.defaultimg {
+	margin-bottom: -3px;
+}
+/* Gets rid of "UVM HOME" link */
+#uvmmainmenu li.home {
+	display: none;
+}
+#uvmmainmenu a {
+/*	color: #fff;  */
+}
+#uvmmainmenu ul {
+	font-size: 13px;
+	background: #f7f7f7;
+	/*	color: #7d2626;  */
+/*	font-weight: bold;  */
+	border-bottom: 1px solid #a08f8f;
+}
+#uvmmainmenu li {
+	background: url(http://www.uvm.edu/~cems/gfx/2008quadbullet_new.gif) no-repeat 10px 1em;
+	border-top: none;
+}
+#uvmmainmenu li li {
+	border-top: 1px solid #a08f8f;
+}
+#uvmmainmenu li li li {
+	background: none;
+	list-style: outside;
+	list-style: url(http://www.uvm.edu/~cems/gfx/2008bullet_new.gif);
+	margin-left: 20px;
+	padding: .1em 0;
+}
+#uvmmainmenu li li li:before {
+	content: url(http://www.uvm.edu/~cems/gfx/2008bullet_blank.gif);
+}
+#uvmmainmenu li li li strong {
+	/*	background: #f9f4e8;  */
+/*	font-weight: bold;  */
+	padding: 3px 3px 3px 3px;
+}
+#uvmmainmenu li li li a, #uvmmainmenu li li li strong, #uvmsupplinks li a, #uvmsupplinks li strong {
+	position: relative;
+	left: -6px;
+}
+#uvmmainmenu li a:link, #uvmmainmenu li li a:link {
+/*	color: #7d2626;  */
+}
+#uvmmainmenu li li li a:link {
+/*	color: #7d2626;  */
+}
+#uvmmainmenu li a:visited, #uvmmainmenu li li a:visited {
+/*	color: #7d2626;  */
+}
+#uvmmainmenu li li li a:visited {
+/*	color: #7d2626;  */
+}
+#uvmmainmenu li a:hover, #uvmmainmenu li li a:hover {
+/*	color: #a89976;  */
+}
+#uvmmainmenu li li li a:hover {
+/*	color: #a89976;  */
+}
+#uvmmainmenu li a:active {
+/*	color: #7d2626;  */
+}
+#uvmsupplinks li {
+	list-style: url(http://www.uvm.edu/~cems/gfx/2008bullet.gif);
+	margin-left: 15px;
+	padding-left: 0;
+	text-indent: 0;
+}
+#uvmmaincontent {
+	line-height: 1.5;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#uvmmaincontent p {
+	padding-top: 5px;
+}
+#uvmmaincontent h1, #uvmmaincontent h2, #uvmmaincontent h3, #uvmmaincontent h4, #uvmmaincontent h5, #uvmmaincontent h6 {
+	letter-spacing: .01em;
+}
+/* h1 and h2 are defined due to pages pulled in using UVM module code, e.g., Courses; they are defined the same as h3 and h4 */
+#uvmmaincontent h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: #447548;
+}
+#uvmmaincontent h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #88912a;
+	padding-top: 10px;
+	margin: 0px 0px -2% 0px;
+}
+#uvmmaincontent h3 {
+	font-size: 16px;
+	color: #000;
+	/*	color: #447548; */
+	margin-top: 5px;
+}
+* html #uvmmaincontent h3 {
+	margin-top: 20px;
+}
+#uvmmaincontent h4 {
+	font-size: 14px;
+	color: #54885A;
+	padding-top: 10px;
+	margin: 0px 0px -1% 0px;
+}
+#uvmmaincontent h4.dkgreen {
+	font-size: 15px;
+	color: #456148;
+	font-style: italic;
+}
+#uvmmaincontent h5 {
+	font-size: 13px;
+	color: #000;
+	font-style: italic;
+	margin: 0px 0px -2% 0px;
+}
+#uvmmaincontent h6 {
+	font-size: 11px;
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+/* UVM Footer */
+#uvmfooter {
+	background: #658968;
+}
+/*----------------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+
+/*---------------------------
+HOMEPAGE
+-----------------------------*/
+#homecontainer {
+	/*
+TO CREATE COLS OF EQUAL HEIGHT
+background: url(http://www.uvm.edu/~cems/gfx/cems_bckgrd.gif) repeat-y -15px 0px;
+*/
+	line-height: 1.3;
+	font-size: 1.1em;
+	margin-top: -10px;
+	margin-left: -2px;
+}
+* html #homecontainer {
+	margin-top: 10px;
+}
+#homemiddle {
+	margin-right: 190px;
+	margin-bottom: 20px;
+	margin-left: -10px;
+}
+#homecontainer h2 {
+	color:  #cccccc;
+	font-size: 18px;
+	text-transform: uppercase;
+	margin-bottom: -10px;
+	padding-bottom: -10px;
+}
+#homecontainer h3 {
+	color:  #447548;
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+#homecontainer h3.brightred {
+	color: #c80928;
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+#homecontainer h3.dkgreen {
+	color: #456148;
+	font-size: 16px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+#homecontainer .dkgreen {
+	color: #456148;
+	font-size: 16px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+#homecontainer h4 {
+	color: #000000;
+	font-size: 12px;
+	padding-left: 10px;
+	margin-top: -5px;
+	margin-bottom: 5px;
+}
+#homecontainer p {
+	margin-top: 0px;
+}
+#homecontainer .videotitle {
+	font-weight: bold;
+}
+#homecontainer img.video {
+	margin-top: 5px;
+}
+#homecontainer ul {
+	list-style-type: none;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	padding-left: 15px;
+}
+img.line {
+	margin: 20px 0px 20px 20px;
+}
+/*--  yellow block --*/
+.homespecialyellow {
+	background: #fcfcaa;
+	width: 58%;
+	padding: 5px 15px 5px 15px;
+	margin: 20px 0px 20px 0px;
+	border: solid #ccc 1px;
+}
+* html .homespecialyellow {
+	width: 315px;
+	margin: 10px 0px 20px 0px;
+}
+.homespecialhead {
+	color: #447548;
+	font-weight: bold;
+}
+.homespecialred {
+	color: #990000;
+	font-weight: bold;
+	font-size: 12px;
+}
+/*--  gray block --*/
+.homespecialgray {
+	background: #eeeeee;
+	width: 315px;
+	padding: 10px 15px 10px 15px;
+	margin: 0px 0px 0px 0px;
+	border: solid #ccc 1px;
+}
+* html .homespecialgray {
+	width: 315px;
+	margin: 10px 0px 20px 0px;
+}
+/*---------------------------
+ homepage right column
+-----------------------------*/
+#cshomeright {
+	font-size: 12px;
+	background: #f1f7e6;
+	float: right;
+	width: 200px;
+	padding: 10px 5px 10px 5px;
+	margin: -10px -20px 10px 10px;
+	border-bottom: solid #ccc 1px;
+	border-left: solid #ccc 1px;
+}
+* html #cshomeright {
+	margin: -10px -3px 10px 8px;
+}
+/*--  yellow block --*/
+.rtcolyellow {
+	background: #fcfcaa;
+	width: 180px;
+	padding: 8px 5px 8px 5px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+	border: solid #ccc 1px;
+}
+/*-- suppress h3s (because of "News") */
+#cshomeright h3 {
+	display: none;
+}
+#cshomeright .header3 {
+	color: #447548;
+	font-size: 15px;
+	font-weight: bold;
+	padding-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#cshomeright .header3red {
+	color: #cc0000;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 1.1;
+}
+#cshomeright .headercssa {
+	color: #0f6473;
+	font-size: 15px;
+	font-weight: bold;
+	padding-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#cshomeright h6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	margin-top: -1em;
+	padding-left: 5px;
+}
+#cshomeright h6.news {
+	margin-top: 0px;
+}
+#cshomeright p {
+	padding: 0px 5px 0px 5px;
+	margin-top: 10px 15px 10px 12px;
+}
+#cshomeright ul {
+	font-size: 12px;
+	list-style-position: outside;
+	list-style-type: square;
+	line-height: 1.5;
+	padding-left: 10px;
+	margin: 0px 10px 10px 10px;
+}
+#cshomeright ul li {
+	padding-top: 10px;
+}
+#cshomeright ul a {
+	text-decoration: none;
+}
+#cshomeright img.homerighttop {
+	margin-bottom: 15px;
+}
+#cshomeright img.alignright {
+	float: right;
+	margin: 5px 0px 5px 2px;
+}
+#cshomeright img.middle {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#cshomeright .datetimeplace {
+	font-size: 11px;
+	font-weight: bold;
+}
+#cshomeright .title {
+	font-size: 13px;
+	font-weight: bold;
+	padding-bottom: 0px;
+	margin-bottom: -10px;
+}
+#cshomeright .description {
+	font-size: 11px;
+	color: #500d04;
+}
+#cshomeright .csvideobox {
+	padding: 0px 8px 0px 10px;
+	margin: 0px 15px 0px 0px;
+}
+#cshomeright .csvideotitle {
+	font-size: 13px;
+	font-weight: bold;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+#cshomeright p.csvideotext {
+	padding: 5px 0px 2px 2px;
+	margin: 0px 0px;
+}
+#cshomeright p.rotator {
+	margin: 5px 0px 0px 8px;
+}
+#cshomeright a:hover {
+	color: #cc0000;
+}
+img.videoimg {
+	margin-top: 5px;
+}
+/*---------------------------
+right-hand links box
+-----------------------------*/
+#suppnavcs {
+	color: #666;
+	font-size: 11px;
+	background: #f1f7e6;
+	float: right;
+	width: 157px;
+	margin: -20px -20px 10px 14px;
+	;
+	padding: 1em 10px 0em 10px;
+	border-bottom: solid #ccc 1px;
+	border-left: solid #ccc 1px;
+}
+* html #suppnavcs {
+	margin: 0px -3px 10px 14px;
+}
+#suppnavcs h3 {
+	color: #447548;
+	text-transform: uppercase;
+	font-size: 12px;
+	padding-left: 5px;
+	margin: 0px;
+}
+#suppnavcs .head {
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	margin: 0px 0px 10px 0px;
+}
+#suppnavcs ul {
+	list-style-position: outside;
+	list-style-type: square;
+	padding-right: 5px;
+	padding-left: 25px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+#suppnavcs li a:link {
+	color: #666;
+	text-decoration: none;
+}
+#suppnavcs li a:visited {
+	color: #666;
+	text-decoration: none;
+}
+#suppnavcs li a:hover {
+	color: #cc0000;
+	text-decoration: none;
+}
+#suppnavcs li a:active {
+	color: #666;
+	text-decoration: none;
+}
+/*---------------------------
+ blockquote
+-----------------------------*/
+.blockquote {
+	margin: 0px 0px 10px 30px;
+}
+/*---------------------------
+epigraph
+-----------------------------*/
+#epigraph {
+	color: #000000;
+	font-style: italic;
+	font-family: times, serif;
+	font-size: 12px;
+	text-align: left;
+	padding: 5px 5px 0px 10%;
+}
+#epigraph_au {
+	color: #000000;
+	font-style: normal;
+	font-family: times, serif;
+	font-size: 12px;
+	text-align: right;
+	padding-top: 5px;
+}
+/*---------------------------
+ tables
+-----------------------------*/
+table.main {
+	background-color: #ffffff;
+	border: 1px solid #000000;
+}
+/*
+Coloring alternating rows:
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+*/
+table.main tr.color {
+	background-color: #eeeeee;
+}
+table.main th {
+	text-align: left;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #cccccc;
+	padding: 5px 10px 5px 5px;
+}
+table.main th.center {
+	text-align: center;
+}
+table.main td {
+	text-align: left;
+	font-family: Verdana;
+	font-size: 11px;
+	padding: 5px 10px 5px 5px;
+}
+table.main td.top {
+	vertical-align: top;
+}
+table.main td.center {
+	text-align: center;
+}
+table.main td.right {
+/*	text-align: right;  */
+}
+table.main td li {
+	list-style-type: disc;
+	list-style-position: inside;
+}
+table.frame {
+	background-color: #ffffff;
+	border-collapse: collapse;
+}
+table.frame th {
+	text-align: center;
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 5px 10px 5px 5px;
+	background-color: #eee;
+	border: 1px solid #000000;
+}
+table.frame td {
+	text-align: left;
+	vertical-align: top;
+	font-family: Verdana;
+	font-size: 10px;
+	padding: 5px 10px 10px 5px;
+	border: 1px solid #000000;
+}
+table.sequence {
+	background-color: #ffffff;
+}
+table.sequence tr.color {
+	background-color: #eee;
+}
+table.sequence td {
+	text-align: left;
+	font-family: Verdana;
+	font-size: 10px;
+	padding: 0px 0px 0px 0px;
+	border: 0px;
+}
+table.sequence td.center {
+	text-align: center;
+}
+table.sequence td.right {
+/*	text-align: right;  */
+}
+table.sequence td.topleft {
+	text-align: left;
+	vertical-align: top;
+}
+table.sequence td.topright {
+	text-align: right;
+	vertical-align: top;
+}
+table.sequence td.notes {
+	text-align: left;
+	vertical-align: top;
+}
+table.bacs {
+	font-family: Verdana;
+}
+table.bacs th {
+	background-color: #eee;
+	font-size: 11px;
+	padding: 5px 5px 5px 5px;
+	border: 0px;
+}
+table.bacs td.gray {
+	background-color: #f3f3f3;
+}
+table.bacs td {
+	text-align: left;
+	vertical-align: top;
+	font-size: 10px;
+	padding: 5px 5px 5px 5px;
+	border: 0px;
+}
+table.samples {
+	background-color: #ffffff;
+	border: 1px solid #000000;
+}
+table.samples tr {
+	background-color: #eeeeee;
+}
+table.samples th {
+	text-align: center;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #cccccc;
+	padding: 5px 5px 5px 5px;
+}
+table.samples td {
+	text-align: left;
+	padding: 5px 5px 5px 5px;
+}
+table.homepage {
+	width: 471px;
+	margin-top: -10px;
+}
+table.homepage td {
+	text-align: left;
+	vertical-align: top;
+	padding: 0px 5px 0px 5px;
+}
+table.video {
+	width: 471px;
+}
+table.video td {
+	text-align: left;
+	vertical-align: bottom;/*	padding: 0px 10px 0px 10px; */
+}
+/*---------------------------
+ image - align left, right, center
+-----------------------------*/
+img.alignleft {
+	float: left;
+	margin: 5px 10px 5px 0px;
+}
+img.alignright {
+	float: right;
+	margin: 5px 0px 5px 10px;
+}
+img.aligncenter {
+	float: center;
+	text-align: center;
+	margin: 5px 10px 5px 10px;
+}
+img.hometopmargins {
+	margin-top: -15px;
+	margin-bottom: 15px;
+}
+img.toprtcol {
+	margin-bottom: 10px;
+}
+img.seminars-rt {
+	float: right;
+	margin: 0px 75px 5px 10px;
+}
+/*---------------------------
+ captioned images
+-----------------------------*/
+.caption {
+	margin: 8px;
+	/* padding: 0px; */
+	border: 1px solid #777;
+	/* background: #E5F2FF; */
+	color: #666666;
+	font-size: 11px;
+	font-weight: bold;
+}
+.caption img {
+	border: 0px;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+p.caption {
+	text-align: center;
+	padding: 0px 3px 3px 3px;
+	margin: 0px;
+	border: 0px;
+}
+p.captionleft {
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 5px 5px 5px 10px;
+	border: 0px;
+}
+/*--------------------------
+captioned photo SAMPLE HTML:
+
+<div class="caption right" style="width: 190px;">
+<img style="width: 190px; height: 160px;" src="gfx/solarlighting.jpg" alt="Solar Lighting" title="Solar Lighting" />
+<p class="caption">
+Stewart Maclean and Justin McCabe study their prototype in the Solar Lighting project in ME Senior Design, Spring '06.
+</p>
+</div>
+*/
+/*---------------------------
+ h3 with h4 subtitle
+-----------------------------*/
+h3.subtitle {
+	margin-bottom: -1px;
+}
+/*---------------------------
+ h4 with h5 subtitle
+-----------------------------*/
+h4.subtitle {
+	padding-bottom: 7px;
+}
+/*---------------------------
+ news synopsis & stories (newsevents/default.php & individual story pages)
+-----------------------------*/
+#newscs h4 {
+	color: #515751;
+	margin-bottom: -2%;
+}
+#newscs .releasedate {
+	padding-top: 15px;
+	margin-top: 0px;
+	margin-bottom: -5px;
+}
+/*---------------------------
+ SUPPRESS: News date and "View previous stories"
+-----------------------------*/
+.newsheadlinedate {
+	display: none;
+}
+.newsnav {
+	display: none;
+}
+/*---------------------------
+ for course listing by term
+-----------------------------*/
+ul li {
+/*	padding-bottom: 10px;  */
+}
+/*---------------------------
+ news list (newsevents/allnews.php)
+-----------------------------*/
+ul.newslistcs {
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+	color: #000000;
+}
+ul.newslistcs li {
+	color: #666666;
+	padding-bottom: 5px;
+	text-indent: -8em;
+	margin-left: 8em;
+}
+ul.newslistcs li a:link {
+	color:#000000;
+}
+ul.newslistcs li a:visited {
+	color: #000000;
+}
+ul.newslistcs li a:hover {
+	color: #cc0000;
+}
+/*---------------------------
+ research day list 
+-----------------------------*/
+ul.researchday {
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+ul.researchday li {
+	padding-bottom: 10px;
+	text-indent: -8em;
+	margin-left: 8em;
+}
+/*---------------------------
+ ul head & following list
+-----------------------------*/
+.ulhead {
+	font-size: 13px;
+	color: #000000;
+	font-weight: bold;
+	margin-left: 20px;
+}
+ul.follhead {
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+/*---------------------------
+ ul for News & Seminars
+-----------------------------*/
+ul.newsevents {
+	margin-top: 20px;
+}
+ul.newsevents li {
+	padding-bottom: 15px;
+}
+/*---------------------------
+ ul bulleted, extra space between items
+-----------------------------*/
+ul.spacey li {
+	padding-bottom: 10px;
+}
+/*---------------------------
+ ul research funding
+-----------------------------*/
+ul.funding li {
+	list-style: none;
+	padding: 5px 0 5px 0;
+}
+/*---------------------------
+ ul bulleted, extra space between items
+-----------------------------*/
+ul.prospectives {
+	padding-left: 12px;
+	margin-left: 3px;
+}
+ul.prospectives li {
+	list-style: url(http://www.uvm.edu/~cems/cs/gfx/arrow-green.gif);
+	padding-bottom: 0px;
+}
+/*---------------------------
+ ul Honors & Exploits
+-----------------------------*/
+ul.honors {
+	padding-left: 10px;
+	margin-left: 10px;
+}
+ul.honors li {
+	list-style: none;
+	min-height: 100px;
+	width: 350px;
+}
+/*---------------------------
+ ul "Young investigators" newstory
+-----------------------------*/
+ul.young {
+	padding-left: 10px;
+	margin-left: 10px;
+}
+ul.young li {
+	list-style: none;
+	min-height: 165px;
+	height: auto;
+	padding-bottom: 15px;
+}
+/*---------------------------
+ ul inside ul
+-----------------------------*/
+ul.insideul {
+	margin-top: 10px;
+}
+ul.insideul li {
+	list-style: square;
+	padding-bottom: 10px;
+}
+/*---------------------------
+ ul inside spacey ul
+-----------------------------*/
+ul.inspaceyul {
+	margin-top: 0px;
+}
+ul.inspaceyul li {
+	list-style: square;
+	padding-bottom: 10px;
+}
+/*---------------------------
+ numbered list
+-----------------------------*/
+ol li {
+	list-style-type: decimal;
+}
+/*---------------------------
+ numbered list, extra space between items
+-----------------------------*/
+ol.spacey li {
+	list-style-type: decimal;
+	padding-bottom: 10px;
+}
+/*---------------------------
+ alpha list
+-----------------------------*/
+ol.alpha li {
+	list-style-type: lower-alpha;
+	padding-bottom: 0px;
+}
+/*---------------------------
+ div (yellow) for homepage special items
+-----------------------------*/
+.homespecial {
+	background: #fcfcaa;
+	width: 315px;
+	padding: 10px 15px 10px 15px;
+	margin: 0px 0px 0px 0px;
+}
+/*---------------------------
+ outlined block for homepage events
+-----------------------------*/
+.event {
+	background: #e4e4e4;
+	width: 322px;
+	padding: 5px 10px 5px 10px;
+	margin-bottom: 20px;
+	border: 1px solid #000;
+}
+/*---------------------------
+ red text + red link
+-----------------------------*/
+.red {
+	color: #cc0000;
+}
+#uvmcontent .red a:link, #uvmcontent .red a:visited {
+	color: #cc0000;
+}
+/*---------------------------
+ larger text
+-----------------------------*/
+.larger {
+	font-size: 13px;
+	font-weight: bold;
+}
+/*---------------------------
+ center text
+-----------------------------*/
+.center {
+	text-align: center;
+}
+/*---------------------------
+ pages 1 2 3
+-----------------------------*/
+.pages {
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+}
+/*---------------------------
+ return to top
+-----------------------------*/
+.return {
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	text-transform: uppercase;
+	text-align: right;
+	line-height: 1%;
+}
+/*---------------------------
+ fancy capital letter - begins first para on page
+-----------------------------*/
+.firstbigletter {
+	font-family: georgia, times;
+	color: #660000;
+	font-size: 56px;
+	font-weight: normal;
+	line-height: 80%;
+	letter-spacing: -6px;
+}
+.dropcap {
+	float: left;
+	width: 42px;
+	font-family: georgia, times;
+	font-size: 52px;
+	font-weight: normal;
+	line-height: 41px;
+}
+.red-smallital {
+	font-size: 12px;
+	color: #c80928;
+	font-weight: bold;
+	font-style: italic;
+	padding-right: 5px;
+}
+.red-centerital {
+	font-size: 14px;
+	color: #c80928;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+/*---------------------------
+ emphasized text 1
+-----------------------------*/
+.emphasis {
+	color: #515751;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	font-style: italic;
+}
+/*---------------------------
+ emphasized text 2 (h5 size, no ital)
+-----------------------------*/
+.h5emphasis {
+	font-size: 13px;
+	font-weight: bold;
+}
+/*---------------------------
+ emphasized text on homepage
+-----------------------------*/
+.home-emphasis {
+	color: #515751;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: 25px;
+}
+/*---------------------------
+ question text
+-----------------------------*/
+.question {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 18px;
+}
+/*---------------------------
+ return to top
+-----------------------------*/
+.return {
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	text-transform: uppercase;
+	text-align: right;
+	line-height: 1%;
+}
+/*---------------------------
+ see more
+-----------------------------*/
+.seemore {
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	text-transform: lowercase;
+	font-weight: bold;
+	text-align: right;
+	line-height: 1%;
+}
+/*---------------------------
+ signature
+-----------------------------*/
+.signature {
+	font-family: times;
+	font-size: 18px;
+	font-weight: bold;
+	font-style: italic;
+}
+/*---------------------------
+epigraph
+-----------------------------*/
+#epigraph {
+	color: #000000;
+	font-style: italic;
+	font-family: times, serif;
+	font-size: 12px;
+	text-align: center;
+	padding: 5px 5px 0px 10%;
+}
+#epigraph_au {
+	color: #000000;
+	font-style: normal;
+	font-family: times, serif;
+	font-size: 12px;
+	text-align: center;
+	padding-top: 5px;
+}
+/*---------------------------
+ side h3, e.g., "Research"
+-----------------------------*/
+.insideh3 {
+	color: #305333;
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 1;
+}
+/*---------------------------
+  video list
+-----------------------------*/
+h4.videolist {
+	margin-bottom: 80px;
+	border-bottom: 1px dashed #666;
+	width: 525px;
+}
+*html h4.videolist {
+	margin-left: 0px;
+}
+h5.videolist {
+	margin-bottom: 85px;
+}
+img.videolist {
+	float: left;
+	margin: 2px 10px 0px 0px;
+}
+ul.videolist {
+	padding-left: 0px;
+	margin-top: -80px;
+	margin-left: 0px;
+}
+ul.videolist li {
+	list-style: none;
+	min-height: 80px;
+	height: auto;
+	/*	border-bottom: 1px dashed #666; */
+	padding-top: 8px;
+}
+*html ul.videolist li {
+	height: 80px;
+}
+ul.newsvideolist {
+	margin: 5px 75px 10px 10px;
+}
+ul.newsvideolist li {
+	list-style: none;
+	min-height: 80px;
+	height: auto;
+	/*	border-bottom: 1px dashed #666; */
+	padding-top: 8px;
+}
+*html ul.newsvideolist li {
+	height: 80px;
+}
+.inlineList {
+	display: inline;
+}
+#asweet {
+	background-color: #F1F7E6;
+	margin-left: 200px;
+	padding: 1px;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+}
+#asweet li {
+	padding: 0 1em;
+	border-right:solid thin #000;
+}
+#asweet li.last{
+	border-right: 0;
+}
+#asweet a{
+	font-size: small;
+}
+
+
+#newslistfeature {
+	margin: 0;
+	padding: 0;
+	padding-top: 1em;
+	margin-bottom: 1em;
+	border-bottom: 1px dashed #CCCCCC;
+}
+#uvmmaincontent div.newsrss {
+	float: right;
+	margin-top: -1.5em;
+}
+#newslistfeature ul li {
+	list-style-type: none;
+}
+.aggregate_release_date {
+	color: #447548;
+}

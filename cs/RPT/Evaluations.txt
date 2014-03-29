@@ -1,0 +1,346 @@
+Department of Computer Science
+University of Vermont
+
+Faculty Evaluation Guidelines
+*****************************
+
+Department Perspective 
+----------------------
+
+The following are general guidelines.  The Department is made up of
+individuals with different strengths and interests who may decide to
+focus their energies on one particular activity at certain times in
+their careers.  In this case the percentage value accorded teaching,
+research and service may vary from year to year.  Both the faculty
+member and the chair, prior to the evaluation period, should agree
+upon the percentages; the norms for these percentages are given below.
+
+Professor, Associate Professor and Assistant Professor
+
+                Teaching:        40% 
+                Research:        40% 
+                Service:         20%        
+
+Senior Lecturer, Lecturer
+
+                Teaching:        80%                 
+                Service:         20%        
+
+Research Professor, Research Associate Professor and Research
+Assistant Professor
+
+                Research:       100% 
+
+Evaluation Guidelines
+---------------------
+
+In each category - Teaching, Scholarship and Service - the quality of
+the faculty member's work will be the primary consideration.  Inherent
+in this consideration are factors such as productivity (e.g., the
+number of courses, advisees, publications, committees, etc.), the
+intensity of work (e.g., the effort and scope of research, the scope
+and work load of committees, etc.), and the impact of the work
+(assessed if possible by outcomes, e.g., performance of students in
+subsequent courses/exams or after graduation, citations or adoptions
+of papers/books, significance of papers, effect of reports/actions of
+committees on the University or regional community, impact of a
+project on scientific or health advances, etc.).
+
+The quality measures are common to all, and an individual's evaluation
+will be based on performance in each category in light of the agreed
+upon workload percentages.  Thus there are different expectations (in
+terms of "quantity" but not "quality") for excellence at the 20% level
+than at the 40% level.
+
+It is recognized that many activities cross over the general rubrics
+of Teaching, Scholarship and Service.  For example, Professional
+Service is often a good measure of a faculty member's scholarly
+stature in his/her discipline, and therefore should also be taken into
+account in evaluation under the Scholarship category (notable examples
+include refereeing or editing for premiere journals, reviewing grants
+for major agencies, etc.).  Likewise, scholarship often has a direct
+impact on teaching (e.g., the development of new courses and/or new
+media-based material, research with students, etc.).
+
+Teaching
+--------
+
+Excellent: To achieve an excellent rating in teaching, the chair will
+seek substantial indication of quality based on the following
+indicators.  These are not listed in order of importance.  Also, this
+is not an exhaustive list; other indicators of excellence will be
+considered, as appropriate.  In evaluating teaching the chair will
+also consider mitigating factors beyond the control of the faculty
+member, such as the times and the physical support for lectures (e.g.,
+location of a class, performance of hardware, etc.).
+
+The faculty member
+
+ - Is a well-prepared and stimulating lecturer.
+ - Effectively encourages independent and creative student thinking
+   and learning.
+ - Works to improve courses (constructs course web pages, incorporates
+   new technologies, incorporates current examples and applications in
+   class, updates topical coverage in courses, etc).
+ - Keeps current with teaching resources (such as textbooks and
+   websites) and with scholarly literature on teaching.
+ - Attends seminars, workshops, sessions at professional meetings
+   meant to improve teaching.
+ - Maintains high standards for amount and quality of work expected
+   from students.
+ - Receives excellent student evaluations.
+ - Generates feedback from students and other faculty members that is
+   generally highly positive, with significant outstanding comments.
+ - Is successful in teaching a range of courses---by level or
+   topic---as needed in the Department.
+ - Is accessible to students outside of class, including during posted
+   office hours.
+ - Designs and effectively teaches new courses or significantly
+   different sections of existing courses.
+ - Is an effective advisor; students value the faculty member's help
+   and seek them out as an adviser.
+ - Takes on additional teaching responsibilities when the need or
+   opportunity arises (e.g., supervises independent study and
+   practicum courses, student research projects, TAP, URECA students,
+   etc).
+ - Supervises honors theses, masters theses or doctoral dissertations.
+ - Supervises student projects or presentations, including
+   accompanying students to conferences.
+ - Communicates to students an interest in them as persons and in
+   their intellectual development.
+ - Has won a teaching award.
+
+Highly Satisfactory: The faculty member
+
+ - Shows marked evidence of success in the above mentioned categories,
+   but generally the quality is less than that of an "excellent"
+   teacher.
+ - Receives student evaluations that are still very positive but not
+   at same level as an "excellent" teacher.
+ - Generates feedback that is highly positive but to a lesser degree
+   than for an "excellent" teacher.
+
+Satisfactory: The faculty member
+
+ - Shows some evidence of success in the above-mentioned categories,
+   but generally the quality is less than that of a "highly
+   satisfactory or excellent" teacher.
+ - Receives positive as well as satisfactory student evaluations.
+ - Generates feedback that is generally positive but to a lesser
+   degree than for a "highly satisfactory" teacher.
+
+Unsatisfactory: The faculty member's teaching and advising is
+characterized by some of the following:
+
+ - Consistently receives mediocre or poor student teaching
+   evaluations.
+ - Generates feedback from peers and students about teaching
+   performance that is often negative.
+ - Either does not have appropriate office hours or does not attend
+   scheduled office hours
+ - Does little to seek to maintain or improve present courses.
+ - Does little to keep abreast of important general studies, textbooks
+   and pedagogical materials germane to the courses he/she teaches.
+ - Exhibits inconsistent attendance or frequent tardiness at classes
+   (has substitutes more than a few times).
+ - Is unresponsive to students' needs.
+ - Does not respond to normal student questions or requests in a
+   timely and appropriate fashion.
+ - Does not adhere to deadlines related to courses and students.
+ - Is avoided by students as a teacher, advisor, or supervisor (e.g.,
+   for required research projects or theses).
+ - Does not cover required course material.
+ - Violates professional code of ethics.
+
+Scholarship and Research
+------------------------
+
+The chair will take into account differences of doing research in
+various fields.  Each Department faculty member evaluated under this
+category is expected to maintain and be able to document an active
+scholarship program that includes some or all of the following:
+
+ - Research and writing leading to publication of articles in refereed
+   scholarly journals, books or conference proceedings.
+ - Authoring or editing scholarly monographs, textbooks, or reference
+   books that present new ideas or incorporate the faculty member's
+   scholarly work.
+ - Delivery of papers at scholarly conferences.
+ - Authored published book reviews.
+ - Authored software or new media-based scholarly material that is
+   widely disseminated and peer reviewed.
+
+The role of the faculty member in joint efforts should be established
+as clearly as possible.
+
+Work in progress should be assessed whenever possible (this being
+especially important for a junior faculty member who may not have an
+established reputation or track record).  Likewise, it is recognized
+that peer reviewing of submitted articles, grants, monographs, books,
+etc. may take a long time, so the quality of scholarship should be
+evaluated in the context of a faculty member's ongoing work.  In this
+context, submitted works may be indicators that a faculty member's
+scholarship transcends one of the categories that follow.
+
+Excellent: The faculty member
+
+ - Has had articles accepted or published in refereed journals that
+   are recognized as being among the leading ones in their field. (The
+   chair shall also take into account that there are different average
+   publication rates for researchers in different areas of mathematics
+   and statistics.)
+ - Delivers papers at scholarly conferences, some by invitation.
+ - Presents invited colloquia at distinguished institutions.
+ - Has had articles accepted or published in refereed conference
+   proceedings for major conferences in their field.
+ - Has edited or written a significant book in an area of mathematics
+   or statistics.
+ - Can document chapters written for a planned significant book.
+ - Shows evidence of being well known and respected in her/his field
+   (The chair shall take into account that even if junior faculty
+   members are doing excellent research, they may not yet have
+   established a "reputation" in the field)
+ - Has obtained a significant research grant or contract. (The chair
+   shall take into account the considerable differences in
+   availability and competitiveness of grant funding in different
+   fields of mathematics and statistics.  For research-track faculty
+   members, a criterion for excellence is full funding with grants
+   etc. that have significant value to the University and the regional
+   or national community.)
+ - Undertakes substantial work with others, such as collaboration with
+   other highly respected researchers, supervision of graduate or
+   undergraduates that leads to theses and/or publications, etc.
+ - Has significant, widely disseminated and peer reviewed scholarly
+   work, such as software, web- based innovative scholarly material,
+   etc.
+ - Has won a research or scholarship award or recognition.
+
+Highly Satisfactory:  The faculty member
+
+ - Shows evidence of success in above mentioned categories, but
+   generally the quality is less than that of an "excellent"
+   researcher (e.g., publication in second tier journals, lower
+   productivity levels than the expectations for an "excellent"
+   researcher in her/his field, less evidence in joint work of
+   substantial mathematical or statistical contributions, etc.).
+ - Produces work that is known and respected by others in the field,
+   but his/her reputation is not as high as that of an "excellent"
+   researcher.
+ - Has articles submitted for publication in refereed journals that
+   are recognized as being among the leading ones in their field.
+ - Has had articles submitted in refereed conference proceedings for
+   major conferences in their field.
+ - Has submitted a significant research grant or contract proposal.
+ - Helps obtain grants that provide support for other colleagues and
+   students, or equipment for research projects.
+
+Satisfactory:  The faculty member
+
+ - Documents progress in peer reviewed research (articles, substantive
+   book reviews, papers delivered, etc.)
+ - Has productivity and/or quality level lower than people in the
+   "excellent" and "highly satisfactory" categories.
+
+Unsatisfactory: The faculty member
+
+ - Shows very little evidence of recent work or work in progress on
+   scholarly articles, books, grant proposals, etc. that will
+   ultimately lead to peer reviewed work.
+ - Only rarely makes presentations at scholarly meetings, seminars,
+   symposia, or workshops.
+ - For research-track faculty members: is not regularly able to obtain
+   full funding to support the FTE percentage of the position.
+
+Service
+-------
+
+The chair shall take into account that because junior faculty members
+are discouraged by the Department from over-involvement in service,
+they should not be held to the same standards of productivity as
+tenured faculty.  
+
+The chair shall also recognize that certain kinds of professional
+service (e.g., refereeing of research works) are almost exclusively
+possible only for tenure-track or research-track faculty members.  As
+noted at the outset, measures of quality will take into consideration
+the scope and intensity of service endeavors.  Documentation in this
+area may include written feedback from leaders of a particular service
+activity.
+
+Excellent: An "excellent" faculty member serves effectively in the
+following areas and takes a leadership role in at least one area.
+He/she
+
+Professional Service:
+
+ - Is actively involved in professional organizations, possibly
+   serving as an officer in the organization.
+ - Serves as associate editor or editor-in-chief for a major journal.
+ - Serves as a referee or reviewer for major journals, funding
+   agencies, etc.
+ - Writes letters of evaluation for students or other faculty members
+   (at UVM or other institutions).
+ - Engages in consulting work in areas of mathematics or statistics
+   which contribute to creative and scholarly work, and to the
+   educational, research and service activities of the University
+   (including as a program reviewer or site visitor).
+ - Organizes a professional conference, workshop or continuing
+   seminar.
+ - Speaks in campus colloquia, or to student or community groups.
+ - Regularly attends and contributes to departmental colloquia,
+   seminars and journal clubs (e.g. by speaking, helping to recruit
+  speakers, etc.).
+
+University and Regional Service:
+
+ - Contributes significantly on standing and ad hoc Departmental,
+   College or University committees, and on search committees.
+ - Serves occasionally as chair or in a leadership role of such
+   committees.
+ - Is a Departmental representative to the Faculty Senate.
+ - Makes unique or innovative service contributions to the Department,
+   College or University.
+ - Works as an adviser to student organizations (e.g., the Math Club
+   or SSA).
+ - Speaks in campus events and to student and community groups.
+ - Participates in College and Departmental professional outreach
+   activities such as the UVM High School Mathematics Contest,
+   MathCounts, and UVM-based summer institutes for students.
+ - Participates in University outreach or recruiting activities such
+   as Admissions events.
+ - Undertakes significant Departmental responsibilities such as
+   computer acquisition and maintenance, web page design, or other
+   contributions to the general fabric of the Department.
+ - Has obtained significant equipment grants or made substantial
+   efforts to obtain equipment or funding for facilities or students.
+ - Serves as a Faculty Mentor.
+ - Contributes to the promotion of cultural pluralism of the
+   University or a professional organization.
+ - Has won a service award or other special recognition.
+
+Highly satisfactory: The faculty member
+
+ - Serves effectively in several of the areas listed under
+   "excellent', but not at the same level of quality as the
+   "excellent" faculty member.
+
+Satisfactory: The faculty member
+
+ - Serves in some of the areas listed under "excellent", but his/her
+   contribution is not as substantial or high quality as the "highly
+   satisfactory" member.
+ - Attends Department, College and University meetings, colloquia,
+   etc., and occasionally participates actively in them.
+ - Contributes well, but never in a leadership capacity.
+
+Unsatisfactory: The faculty member
+
+ - Provides little or no service to the University, College or
+   Department (e.g., little or no committee service, or merely attends
+   committee meetings with no discernible contribution).
+ - Is not actively involved in professional organizations, and
+   provides little or no service to the profession.
+ - Consistently fails to attend regularly scheduled Department,
+   College or University meetings, colloquia, etc.
+ - Is not involved in professionally or departmentally related
+   outreach activities.

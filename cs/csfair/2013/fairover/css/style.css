@@ -1,0 +1,1254 @@
+@import url('reset.css');
+* {
+    font-size:12pt;
+}
+
+html, body {height: 100%;}
+
+h1{
+    color:#004c6d;
+}
+
+
+div.event a{display:none;}
+
+
+
+body{
+    margin: auto;
+    width: 100%;
+    min-height: 100%;
+
+    /* Note: This gradient may render differently in browsers that don't support the unprefixed gradient syntax */
+
+    /* Safari 4-5, Chrome 1-9 
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a9ce96), to(#388738)) fixed 0 0 transparent;
+
+    /* Safari 5.1, Chrome 10+ 
+    background: -webkit-linear-gradient(top, #388738, #a9ce96) fixed 0 0 transparent;
+
+    /* Firefox 3.6+ 
+    background: -moz-linear-gradient(top, #388738, #a9ce96) fixed 0 0 transparent;
+
+    /* IE 10 
+    background: -ms-linear-gradient(top, #388738, #a9ce96) fixed 0 0 transparent;
+
+    /* Opera 11.10+ 
+    background: -o-linear-gradient(top, #388738, #a9ce96) fixed 0 0 transparent;*/
+}
+
+#page{
+    margin: 0 auto 53px;
+    width: 93.75%; /* 900px / 960px */
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+
+
+
+#mapDisplay{
+    float: right;
+    width: 36.7777778%; /* 331px / 900px */
+}
+
+
+
+/******************************************  logo    *************************/
+header{
+    background-image: url("../images/billings-4.jpg");
+    
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:right;
+    
+    margin: auto;
+    height: 180px;
+    text-align: left;
+    
+
+}
+header h1 {
+    /*padding: 0.8em 5.33333333%;   48px / 900px */
+    font-size: 4em;
+    color: green;
+    padding-top: 1em;
+    padding-left: .1em;
+
+}
+header h2 {
+    text-align:right;
+    font-size: 2em;
+    color: #fcfcfc;
+    
+}
+header h1 a{
+    font-family: garamond, sans-serif;
+    text-decoration: none;
+    padding: .2em;
+      border-radius: 20px 20px 20px 20px;; 
+
+}
+
+/*header > h1{
+    color: #ff0000;
+}*/
+
+header h1 span {
+    font-variant:small-caps;
+    color: black;
+}
+
+a:link{color: #486F29;}
+
+a:link{color: #000000;}
+
+a:visited{color: #6a8f4b;}
+
+a:hover{
+    color: #FFF8DC;
+    background-color: #007733;
+}
+
+/****************************************  Main Nav       ********************
+
+gradients from: http://www.colorzilla.com/gradient-editor/
+
+*/
+nav{
+    
+    font-family: Arial,Helvetica,sans-serif;
+    color: #FFF8DC;
+    padding-bottom: 2em;
+    border-top: thin solid black;
+    border-bottom: thin solid black;
+    background-image: -moz-linear-gradient(center top , #007733, #583F27);
+    background: #002400; /* Old browsers */
+    background: -moz-linear-gradient(left,  #002400 0%, #005700 17%, #008a00 33%, #52b152 67%, #83c783 83%, #b4ddb4 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,#002400), color-stop(17%,#005700), color-stop(33%,#008a00), color-stop(67%,#52b152), color-stop(83%,#83c783), color-stop(100%,#b4ddb4)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left,  #002400 0%,#005700 17%,#008a00 33%,#52b152 67%,#83c783 83%,#b4ddb4 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left,  #002400 0%,#005700 17%,#008a00 33%,#52b152 67%,#83c783 83%,#b4ddb4 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(left,  #002400 0%,#005700 17%,#008a00 33%,#52b152 67%,#83c783 83%,#b4ddb4 100%); /* IE10+ */
+    background: linear-gradient(to right,  #002400 0%,#005700 17%,#008a00 33%,#52b152 67%,#83c783 83%,#b4ddb4 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002400', endColorstr='#b4ddb4',GradientType=1 ); /* IE6-9 */
+
+}
+nav ol{
+  padding: 0;
+  list-style-type: none;
+}
+
+nav li {
+	float: left;
+ 	margin: 0;
+ 	border-bottom: 0;
+}
+nav a:hover{
+    background: #b4ddb4; /* Old browsers */
+    background: -moz-linear-gradient(top,  #b4ddb4 0%, #83c783 17%, #52b152 33%, #008a00 67%, #005700 83%, #002400 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b4ddb4), color-stop(17%,#83c783), color-stop(33%,#52b152), color-stop(67%,#008a00), color-stop(83%,#005700), color-stop(100%,#002400)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4ddb4', endColorstr='#002400',GradientType=0 ); /* IE6-9 */
+}
+nav a, #activePage{
+ 	 text-shadow: 1px 1px 0 rgba(32, 32, 32, 0.5);
+ 	display: block;
+	float: left;
+	width: 170px;
+ 	padding: .5em 0;
+ 	
+	text-align: center;
+        text-decoration: none;
+}
+nav #activePage{
+     background: #b4ddb4; /* Old browsers */
+    background: -moz-linear-gradient(top,  #b4ddb4 0%, #83c783 17%, #52b152 33%, #008a00 67%, #005700 83%, #002400 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b4ddb4), color-stop(17%,#83c783), color-stop(33%,#52b152), color-stop(67%,#008a00), color-stop(83%,#005700), color-stop(100%,#002400)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4ddb4', endColorstr='#002400',GradientType=0 ); /* IE6-9 */
+
+}
+
+#register nav ol{
+         padding-left: 0;
+}
+
+li.changeColor a{
+     color: #fcfcfc;
+}
+li.changeColor a:hover{
+     color: #FFF8DC;
+}
+/****************************************  Main Section   *********************/
+section{
+ /*   background-color: #daeccb; */
+    min-height:100%;
+    -webkit-box-shadow: 6px 0px 5px rgba(50, 50, 50, 0.43);
+    -moz-box-shadow:    6px 0px 5px rgba(50, 50, 50, 0.43);
+    box-shadow:         6px 0px 5px rgba(50, 50, 50, 0.43);
+}
+section h1, section h2,section p, section table{
+    padding: .2em 8.48056537% .2em 8.48056537%; /* 48px / 566px */
+}
+section h1{
+    padding-top: 1em;
+    padding-bottom: .5em;
+    padding-right: 1em;
+    font-family: helvetica, sans-serif;
+    color: #000000; /*#007733;*/
+    font-size: 28px;
+    font-weight: bold;
+    text-align:center;
+    letter-spacing: 1.2pt;
+    word-spacing: 0pt;
+}
+
+section h2{
+    font-family: helvetica, sans-serif;
+    color: #007733;
+    padding: 1em 0 1em 0;
+    font-size: 18px;
+    font-weight: bold;
+    text-align:center;
+    letter-spacing: 1.2pt;
+    word-spacing: 0pt;
+}
+
+section p{
+    font-family: helvetica, sans-serif;
+    font-size: 12pt;
+    word-spacing: 0pt;
+}
+
+#main{
+    float: left;
+    width: 62.8888889%; /* 566px / 900px */
+}
+
+/****************************************  home page    *********************/
+
+#judges h3{
+    font-family: helvetica, sans-serif;
+    color: #000000;
+    font-size: 3em;
+    font-weight: bold;
+    text-align:center;
+    letter-spacing: 1.2pt;
+    word-spacing: 0pt;
+}
+
+		 
+#sponsors h3{
+    font-family: helvetica, sans-serif;
+    color: #000000;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align:center;
+    letter-spacing: 1.5pt;
+    word-spacing: 0pt;  
+}
+
+
+#students h3{
+    font-family: helvetica, sans-serif;
+    color: #000000;
+    font-size: 2em;
+    font-weight: bold;
+    text-align:center;
+    letter-spacing: 1.5pt;
+    word-spacing: 0pt; 
+}
+
+#faculty h3, .class h3, .hour h3{
+    font-family: helvetica, sans-serif;
+    color: #000000;
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align:center;
+    letter-spacing: 1.5pt;
+    word-spacing: 0pt; 
+}
+#home article{ 
+/*    border: thin solid green; */
+    padding: .3em;
+
+}
+#home .linkTitle{
+    font-size: 1.5em;
+}
+#home article a span + span{
+    display:block;
+    padding-top: .5em;
+}
+#home a span{
+/*    font-size: .8em; */
+}
+
+#home #wrapper{
+/*    float:left;
+    width: 45%;
+event is over let it take up the whole space
+*/
+}
+#judges aside a span, #sponsors aside a span, #students aside a span{
+    color: #004C6D;
+    
+}
+#main article{
+    clear: both;
+}
+#buttonNav {
+    float: right;
+    margin-right: 1em;
+    width: 35%;
+}
+#buttonNav ol li{ 
+    list-style-type:none;
+}
+
+
+#buttonNav a{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    
+    
+	-moz-box-shadow:inset 1px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 1px 1px 0px 0px #ffffff;
+	box-shadow:inset 1px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dbdbdb), color-stop(1, #7a7a7a) );
+	background:-moz-linear-gradient( center top, #dbdbdb 5%, #7a7a7a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dbdbdb', endColorstr='#7a7a7a');
+	background-color:#dbdbdb;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+	text-indent:0;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#fffcff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+	height:35px;
+	line-height:35px;
+	width:164px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 0px #ffffff;
+}
+#buttonNav a:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #7a7a7a), color-stop(1, #dbdbdb) );
+	background:-moz-linear-gradient( center top, #7a7a7a 5%, #dbdbdb 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7a7a7a', endColorstr='#dbdbdb');
+	background-color:#7a7a7a;
+}
+
+
+
+
+
+
+
+
+
+
+#theresMore h3{
+    font-family: helvetica, sans-serif;
+    color: #000000;
+    font-weight: normal;
+    
+    letter-spacing: 1.5pt;
+    word-spacing: 0pt;
+    font-size: 1em;  
+    margin-left:2em;
+}
+/******************************************  project page   *******************/
+.project{
+    margin: 2em 0 2em 0;
+    border-top:  rgba(25, 54, 25,.5) medium solid;
+    padding-top: .6em;
+}
+
+.project div.event{
+    margin-bottom: 1em;
+    padding: .5em 0 .5em 0;
+    background: rgb(25, 54, 25); /* Fall-back for browsers that don't                                  support rgba */
+    background: rgba(25, 54, 25, .5);
+
+}  
+
+.project h3 a{
+    font-size: 1.5em;
+}
+
+
+.project div.event p {
+    margin-top: 0.4em;
+}
+.projectGroup{
+     margin-top: 0.3em;
+}
+ol.groupNames{
+    margin: 0;
+   
+}
+
+.projectCourses span{
+    text-transform: uppercase;
+}
+ol.groupNames li{
+    display: inline;
+    list-style-type: none;
+    margin-left: 3em;
+    padding: 1em;  
+}
+
+.project h3{
+    text-transform: capitalize;
+    padding-left: 3em;
+   
+}
+.gravatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 10% 10% 10% 10%;
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+.voteButton{
+    float: right;
+    padding: .5em;
+    color: #aabbaa;
+    
+}
+/******************************************  side bar   ***********************/
+aside {
+    margin: 0 auto;
+    width: 69.7885196%; /* 231px / 331px */
+ /*   background-color: #cde5b8;
+    min-height: 100%;*/
+}
+aside h2,aside h3, aside h4,aside p{
+    padding: .2em 8.48056537% .2em 8.48056537%; /* 48px / 566px */
+}
+
+aside map{
+    padding: 1em;
+}
+
+aside h2{
+    font-family: helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    word-spacing: -1pt;
+}
+
+aside h3{
+    font-family: helvetica, sans-serif;
+    color: #007733;
+    font-size: 20px;
+    letter-spacing: 0pt;
+    word-spacing: -1pt;
+}
+
+aside h4{
+    font-family: helvetica, sans-serif;
+    color: #007733;
+    font-size: 16px;
+    letter-spacing: 1.2pt;
+    word-spacing: 0pt;
+}
+
+#mapDisplay iframe{  /*width="425" height="350"*/
+    padding-left:1em;
+    padding-top: .5em;
+    width: 90.634441%; /* 300px / 331px */
+    height: 40.634441%; /* 300px / 331px */
+    
+    /* does not seem to matter frameborder="0" scrolling="no" marginheight="0" marginwidth="0"*/
+}
+
+#sponsorList{
+    padding-top: 2em;
+}
+
+#sponsorList ol li{
+    display: inline;
+    list-style-type: none;
+    padding: 1em;
+}
+    
+
+aside#rules{
+    float:left;
+    width: 93.7885%;
+    padding: 1em;   
+}
+#register aside#rules{
+    width: 33%;
+}
+#register aside#rules ol{
+    padding-left: 1em;
+} 
+
+aside#rules ol li{
+    padding-bottom: 1em;
+} 
+
+/******************************************  footer   *************************/
+footer{
+    clear: both;
+    color: #FFF8DC;
+    text-align: center;
+    background-color: #007733;
+    padding: 0.8em 5.33333333%;  /* 48px / 900px */
+  box-shadow: 6px 0 5px rgba(50, 50, 50, 0.43);
+}
+
+ol.photos{
+    /* margin-left: 8.48056537%;*/
+}
+ol.photos li{
+    list-style-type: none;
+    display: inline;
+}
+
+/******************************************  Sponsor list ********************/
+.tier3{ /*largest donation amount */
+    font-size: 2em;
+    width: 100%;
+ /*   max-width: 420px;*/
+}
+
+.tier2{ 
+    font-size: 1.6em;
+    max-width: 60%;
+}
+.tier1{ 
+    font-size: 1.2em;
+    max-width: 50%;
+}
+
+.tier0{ 
+    
+    font-size: .8em;
+    max-width: 50%;
+}
+
+#sponsorList ol li img{
+    padding: 3px;
+    width: 80%;
+}
+#sponsorList ol li img:hover{
+    background-color: #FFFFFF;
+    border-top: 2px solid darkgreen;
+    border-right: 2px solid darkgreen;
+    border-bottom: 2px solid darkgreen;
+    border-left: 2px solid darkgreen;
+    padding: 1px 1px 1px 1px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+#sponsorList ol li a{
+    padding: 0;
+    text-decoration: none;
+    font-size: 2em;
+    
+}
+#sponsorList ol li a:hover{
+    background-color: #FFFFFF;
+    color: #007733;
+    border: none;
+    padding: 0;
+}
+
+
+
+/******************************************  Judge list   ********************/
+
+#judges .judgePic{
+    float: left;
+    padding: 0 1em 1em 0;
+}
+#judges figure img{
+    
+    width: 200px;
+    border: thick inset #005700;
+    padding: 0.1em;   
+}
+
+#judges ol.judges li{
+    list-style-type: none;
+    padding-bottom: 2em;
+    padding-right: 2em;
+    clear: both;
+}
+
+#judges .judge-h1{
+    color: #111111;
+    font-family: sans-serif;
+    font-size: 2em;
+    margin-bottom: 0; 
+    text-align: left;
+    padding: 0;
+    display: block;
+}
+
+#judges .judge-h2{
+    color: #007733;
+    font-family: helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1.2pt;
+    padding: 0 0 0.4em;
+    text-align: left;
+    word-spacing: 0;
+    display: block;
+}
+
+#judges section h2 {
+    border-bottom: medium solid;
+    clear: both;
+    color: #002400;
+    font-family: helvetica,sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 1.2pt;
+    margin-bottom: 1em;
+    margin-left: 2em;
+    padding-bottom: 0.5em;
+    padding-top: 1em;
+    text-align: left;
+    word-spacing: 0;
+}
+#judges section p {
+    padding-bottom: 1.4em;
+}    
+#judges section .email{
+float: right;
+
+}
+/******************************************  Forms   *************************/
+
+#register.buttons{
+   /* display: none;  */
+}
+fieldset{
+    border: #486F29 groove medium;
+    margin: 1em;
+}
+
+input{
+    display: block;
+    margin-bottom:.8em;
+    width: 100%;
+}
+
+input[type="button"]{
+    width: auto;
+}
+input.netid, label.tshirt, input[type="radio"]{
+    width: auto;
+    display: inline;
+}
+input.netid{
+    margin-right: 1em;
+}
+.tshirt, input.radio{
+    display:inline;
+}
+div.group{
+    display: block;
+    border: thin solid lightgrey;
+}
+
+div.group2, div.group3, div.group4, div.group5, div.group6{
+    display: none;
+}
+input.legend{
+    color: #486F29;
+    font-size: larger;
+    padding-bottom: .3em;
+}
+
+#register #frmRegister fieldset.education input{
+    display: inline;
+    width: 2em;
+}
+#register #frmRegister fieldset.education label.radio{
+    display: block;
+}
+
+#register #frmRegister fieldset.details label{
+    display: block;
+    width: 100%;
+}
+
+.textarea{
+    width: 100%;
+    height: 10em;
+}
+
+#register #frmRegister fieldset.timeconflict input{
+    display: inline;
+    width: 2em;
+}
+#register #frmRegister fieldset.timeconflict label{
+    display: block;
+
+}
+
+fieldset.buttons{
+    border:none;
+}
+
+.nextline{display:block;padding-top:1em;}
+/* form confirmation */
+
+#register ol{
+    padding-left: 6em;
+
+}
+
+#register p + h2{
+    text-align: left;
+    text-indent: 2em;
+    padding-top: 1em;
+    
+
+}
+
+/******************************************  sponsor page  form submit   *************************/
+
+.me{
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading{
+    display: block;
+    float: left;
+    font-weight: bold;
+    padding-right: 1em;
+    text-align: right;
+    width: 40%;
+}
+
+.data{
+    width: 30%;
+    text-align: left;
+    
+}
+
+#sponsor2 #main{
+    margin-right: 1.5em;
+    width: 68%;
+}
+#sponsor2 aside#sponsorList{
+	width: 100%;
+}
+
+#sponsor2 #sponsorList ol li.litier3 {
+text-align: center;
+}
+#sponsor2 #sponsorList ol li img.tier3 {
+    max-width: 375px;
+    padding: 6px;
+    width: auto;
+}
+#sponsor2 #sponsorList ol li img.tier2 {
+    max-width: 250px;
+    padding: 10px;
+	width: auto;
+}
+#sponsor2 #sponsorList ol li img.tier1 {
+    max-width: 150px;
+    padding: 5px;
+	width: auto;
+}
+#sponsorList ol li img.tier0 {
+    max-width: 50px;
+    padding: 3px;
+	width: auto;
+}
+
+
+#sponsor2 aside#sponsorForm{
+    
+    margin-top: 1em;
+    width: 100%; 	
+}   
+/******************************************  register page after form submit  */
+
+#register header{
+    float: none;
+    text-align: left;
+    padding-top: 1em;
+    padding-bottom: .3em;
+    
+}
+
+.smallText{
+    font-size: x-small;
+}
+
+/******************************************  vote page   **********************/
+
+#votingStatus{
+    float: left;
+    width: 30%;
+    padding: 1.3em;
+}
+#schedule #votingStatus {
+    float: right;
+}
+#voteForMe{
+    float:right;
+    width: 210px;
+    background-color: #ffffff;
+    box-shadow: 6px 0 5px 5px rgba(50, 50, 50, 0.43);
+    margin-left: 1em;
+}
+.qr{ 
+    width: 200px;
+}
+
+#vote .project {
+    margin: 0;
+    padding-top: 1em;
+}
+#voteForMe form fieldset {
+    border: none;
+    margin: 0;
+}
+#voteForMe span#tv{
+    float: right;
+    text-align: center;
+}
+#voteForMe form input {
+    margin-bottom: 0;
+    font-size: inherit;
+}
+#voteForMe form input#btnVote{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    
+    
+	-moz-box-shadow:inset 1px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 1px 1px 0px 0px #ffffff;
+	box-shadow:inset 1px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dbdbdb), 
+color-stop(1, #7a7a7a) );
+	background:-moz-linear-gradient( center top, #dbdbdb 5%, #7a7a7a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dbdbdb', 
+endColorstr='#7a7a7a');
+	background-color:#dbdbdb;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+	text-indent:0;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#fffcff;
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	font-style:italic;
+	line-height:35px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 0px #ffffff;
+}
+#voteForMe form input#btnVote:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #7a7a7a), 
+color-stop(1, #dbdbdb) );
+	background:-moz-linear-gradient( center top, #7a7a7a 5%, #dbdbdb 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7a7a7a', 
+endColorstr='#dbdbdb');
+	background-color:#7a7a7a;
+}
+
+/*
+#voteForMe form input#btnVote{
+color: #fff;
+ font-size: 1.5em;
+ width: 90%;
+ height: 3em;
+ border: none;
+ margin: auto;
+ padding: 0;
+padding:5px; border:2px solid #ccc; 
+-webkit-border-radius: 15px;
+border-radius: 15px;
+background-color: green;
+}
+*/
+
+
+#voteForMe form input#txtNetID{
+    width: 6em;
+}
+
+.redText{ /* removed #vote */
+    color: #880000;
+}
+
+#vote .greenText{
+    color: #486F29;
+}
+
+
+.box{
+    padding-right: 15em;
+    border: thin solid black;
+}
+
+.boxLabel{
+    padding: 0.5em 0.5em 0.5em 0;
+    text-align: right;
+    width: 20em;
+}
+
+#main aside#votingStatus ol li{
+    list-style-type: decimal;
+    margin-left: 2em;
+}
+#voting #main p{
+    margin: 2em 0 2em 0;
+}
+#voting #main ol li {
+    margin-left: 5em;
+    padding: 0.2em;
+}
+/*********************************  judge project list page   *****************/
+
+#judgeProjectList .right{
+    border-left: medium solid black;
+}
+
+#judgeProjectList .bottom{
+    border-bottom: medium solid black;
+}
+
+#judgeProjectList td, #judgeProjectList th{
+    padding: .2em;
+    padding-top: .5em;
+}
+
+#judgeProjectList td.box {
+    padding-right: 15em;
+}
+
+#judgeProjectList tr.header th {
+    border-bottom: medium solid black;
+}
+
+/******************************************  vote list page   *****************/
+
+ 
+#list #main{
+    width: 100%;
+    
+}
+
+#list #main table{
+    margin: auto;
+    width: 95%;
+    
+}
+#list #main table{
+    margin-left: 3em;
+    border-collapse: collapse; 
+    border: solid thick #ababab;
+    box-shadow: 6px 0 5px rgba(50, 50, 50, 0.43);
+}
+
+#list #main td, #list #main th {
+    border: thin solid gray;
+    padding: 1em;
+}
+
+#list #main tr:hover{
+    background-color: lightgray;
+}
+
+#list #main #joe{
+    border: thin solid gray;
+    padding: 1em;
+    width: 400px;
+   
+}
+
+
+#list #main ol li{ 
+    list-style-type: none;
+    padding-bottom: 1em;
+}
+
+/******************************************  schedule list page   *****************/
+#schedule #main{
+    width: 100%;
+    
+}
+
+#schedule #main table{
+    margin: auto;
+    width: 95%;
+    
+}
+#schedule #main table{
+    margin-left: 3em;
+    border-collapse: collapse; 
+    border: solid thick #ababab;
+    box-shadow: 6px 0 5px rgba(50, 50, 50, 0.43);
+}
+
+#schedule #main td, #schedule #main th {
+    border: thin solid gray;
+    padding: 1em;
+}
+
+#schedule #main tr:hover{
+    background-color: lightgray;
+}
+
+#schedule #main #joe{
+    border: thin solid gray;
+    padding: 1em;
+    width: 400px;
+   
+}
+
+
+#schedule #main ol li{ 
+    list-style-type: none;
+    padding-bottom: 1em;
+}
+
+.projectPresent{
+    
+}
+
+.studentPresentor{
+    
+}
+
+/**************************************  vote results page   *****************/
+#results #main{
+    width: 100%;
+    
+}
+
+#results #main table, #randomWinner #main table{
+    margin: auto;
+    width: 95%;
+    
+}
+#results #main table, #randomWinner #main table{
+    margin-left: 3em;
+    border-collapse: collapse; 
+    border: solid thick #ababab;
+    box-shadow: 6px 0 5px rgba(50, 50, 50, 0.43);
+}
+
+#results #main td, #results #main th, #randomWinner #main td, #randomWinner #main th{
+    border: thin solid gray;
+    padding: 1em;
+}
+
+#results #main tr:hover, #randomWinner #main tr:hover{
+    background-color: lightgray;
+}
+
+#results .center, #randomWinner .center {
+    text-align: center;
+}
+
+/******************************************  slideshow   *****************/
+figure{
+    display: block;
+    text-align: center;
+}
+.rotating-item1 {
+	display: none;
+        width: 70%;
+}
+
+#index figure{
+    text-align: center;
+}
+#index figure img{
+    width: 70%;
+    position: absolute;
+    top: 305px;
+    left: 20px;
+    padding: .1em;
+    border: #005700 thick outset;
+}
+/******************************************     *************************/
+
+/* setting the design to be 900px wide 
+   with two columns. 
+*/
+
+body{
+   /* max-width: 900px;*/
+}
+
+#main{
+    float: left;
+    width: 62.8888889%; /* 566px / 900px */
+}
+
+#mapDisplay, #sponsorList, #rules{
+    float: left;
+    width: 36.7777778%; /* 331px / 900px */
+}
+
+
+/* error styles */
+
+.mistake {
+    color: #fff;
+    background-color:#800;
+    border: thin solid #000;
+}
+
+#errors ol li{
+    color: #880000;
+} 
+
+.tWrap{display: inline;}
+
+/* #######################################################################  */
+/* make it responvive */
+
+
+/* i am not crazy about this but i make each column the same size */
+@media screen and (max-width:880px){
+
+    #main{
+        float: none;
+        width: 100%; 
+    }
+
+    #mapDisplay, #sponsorList, #rules{
+        float: none;
+         
+    }
+    #mapDisplay, #rules{
+        width: 100%; 
+    }
+
+#sponsor2 aside#sponsorForm, #sponsor2 #main {
+width: 100%;
+}
+}
+
+/* i am not crazy about this but i make each column the same size */
+@media screen and (max-width:932px){
+    #R{color: #FFFFFF;}
+}
+@media screen and (max-width:905px){
+    #I{color: #FFFFFF;}
+}
+@media screen and (max-width:875px){
+    #A{color: #FFFFFF;}
+}
+@media screen and (max-width:845px){
+    #F{color: #FFFFFF;}
+    #R{color: #000000;}
+}
+@media screen and (max-width:824px){
+    #I{color: #000000;}
+}
+@media screen and (max-width:794px){
+    #A{color: #000000;}
+}
+@media screen and (max-width:784px){
+    #R{color: #FFFFFF;}
+}
+@media screen and (max-width:768px){
+    #F{color: #000000;}
+}   
+@media screen and (max-width:764px){
+    #I{color: #FFFFFF;}
+}
+@media screen and (max-width:736px){
+    #A{color: #FFFFFF;}
+}
+@media screen and (max-width:703px){
+    #F{color: #FFFFFF;}
+}
+
+/* menu breaks at this point */
+@media screen and (max-width:692px){
+    nav{
+        padding-bottom: 0;
+    }
+    #register nav ol{
+         padding-left: 0;
+    }
+    nav li, nav a, #activePage{
+        float: none;
+        width: 100%;
+    }   
+}
+
+@media screen and (max-width:583px){
+    .tWrap{display: block;}
+}
+
+@media screen and (max-width:552px){
+    #buttonNav {
+        float: right;
+        margin-right: auto;
+        width: auto;
+    }
+}
+
+@media screen and (max-width:449px){
+#buttonNav {
+    float: none;
+    margin: auto;
+    width: auto;
+}
+}
+/* menu breaks at this point */
+@media screen and (max-width:378px){
+     #F{color: #000000;}
+     #A{color: #000000;}
+     #I{color: #000000;}
+     #R{color: #000000;}
+ #home #wrapper {
+    float: none;
+    width: auto;
+}    
+}
