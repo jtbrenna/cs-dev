@@ -3,9 +3,9 @@
 <p>The Department of Computer Science pursues research in Intelligent Systems with three main thrust areas:</p>
 
 <ul>
-  <li><a href="?Page=datamining/default.php">Data Mining</a></li>
-  <li><a href="?Page=distrsys.php">Distributed Systems</a></li>
-  <li><a href="?Page=compbio.php">Evolutionary and Agent-Based Computing</a></li>
+  <li><a href="../?Page=research/datamining/default.php">Data Mining</a></li>
+  <li><a href="../?Page=research/distrsys.php">Distributed Systems</a></li>
+  <li><a href="../?Page=research/compbio.php">Evolutionary and Agent-Based Computing</a></li>
 </ul>
 
 <!--
