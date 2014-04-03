@@ -1,0 +1,40 @@
+<!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<?php
+include('_dmsuppnav.html');
+?>
+
+<h3><span class="insideh3">Research</span><br />
+Data Mining</h3>
+
+<p>
+Data mining is a broad area that integrates methods from several fields including machine learning, statistics, pattern recognition, and database systems, for the analysis of large volumes of data.  The faculty in the Department of Computer Science at the University of Vermont include internationally recognized researchers in this area whose work is widely published in international journals and conferences.</p>
+<p>Our goal is  to build from our acknowledged research and apply such research to large, noisy real-world problems. While fostering academic research in data mining methods and tools development, we also advocate collaboration across the academic-industrial divide and promote interdisciplinary collaborations between faculty members in Computer Science, Statistics, Engineering, Biology, and Medicine.</p>
+<p>
+In recent years the power of machine learning and statistics techniques to discover interesting patterns in raw data has manifested itself in the widespread application of decision trees, rule induction, Bayesian networks, association analysis, and sequential patterns.  As these techniques have matured in sophistication and power, industry has become directly involved in their promotion and use, particularly in various conferences on Data Mining.  The University of Vermont has a strong contingent of researchers in this area.</p>
+
+<h4>Recent Activities</h4>
+<p>Our faculty publish in the <a href="../../?Page=research/datamining/links.php&amp;SM=research/_researchmenu.html">leading forums in data mining</a> as well as other, related leading journals and conferences, such as <em>IEEE Transactions on Information Theory, ACM Transactions on Information Systems (TOIS), Information Systems, IEEE Intelligent Systems, IJCAI, AAAI, ICML, COLT</em>, and <em>WWW</em>.</p>
+<p>
+
+<a href="http://www.cs.uvm.edu/~xwu/home.html"
+TARGET="_top">Dr. Xindong Wu</a> is the Editor-in-Chief of <em>TKDE
+(IEEE Transactions on Knowledge and Data Engineering)</em>, and the
+Steering Committee Chair for ICDM (IEEE International Conference on
+Data Mining). He was one of the two Program Committee Co-Chairs (with
+Rich Caruana, Cornell University) for KDD-07, the 13th ACM SIGKDD
+International Conference on Knowledge Discovery and Data Mining, held
+in San Jose, California.</p>
+
+<p>
+Dr. Jason Moore was recently appointed founding Co-Editor-in-Chief of <em>BioData Mining</em>.</p>
+
+<h4>Areas of Excellence</h4>
+<ul class="newsevents">
+<li>Data mining from multiple data sources (Xindong Wu)</li>
+<li>Emerging data mining applications in bioinformatics, engineering, and medicine (Abdullah Arslan, Jeff Bond, Yves Dubief, Marc Greenblatt, Larry Haugh, Yuichi Motai, Jason Moore, Jim Vigoreaux, and Xindong Wu)</li>
+<li>Image analysis (Richard Foote, Gagan Mirchandani, and Robert Snapp)</li>
+<li>Noise detection and cleansing in large, distributed data environments (Jeff Bond, Xindong Wu, and Xingquan Zhu)</li>
+<li>Ontology-based information extraction and knowledge discovery (Serguei Krivov and Xindong Wu)</li>
+<li>Pattern discovery in data streams (Byung Lee, Sean Wang, Xindong Wu, and Xingquan Zhu)</li>
+<li>Pattern matching and mining (Abdullah Arslan, Robert Snapp, Xindong Wu, and Xingquan Zhu)</li>
+</ul>

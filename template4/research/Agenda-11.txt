@@ -1,0 +1,101 @@
+10th UVM Computer Science Research Day
+December 8, 2011, 9am - 4pm
+101 Perkins Hall, 33 Colchester Avenue
+Burlington, VT 05405
+
+Agenda
+======
+
+Notes:
+
+- In addition to the keynote speech by Professor Sanjay Ranka
+  (University of Florida), the morning presentations will be given by
+  our faculty PIs of federal research grants, and the afternoon
+  presentations will be provided by our senior PhD students who plan
+  to graduate within one year or two.
+- All CS students and faculty are invited to come and celebrate this
+  10th UVM CS Research Day.
+
+ 8:30 Breakfast (Provided by the Department)
+
+ 9:00 Welcome
+
+ 9:10 Keynote: Efficient Mining Algorithms for Computational Biology
+      Sanjay Ranka, University of Florida
+      (http://sites.google.com/site/sanjayranka/)
+
+10:10 Research Grant Presentations I (20 minutes each)
+
+Josh Bongard:
+PECASE (Presidential Early Career Award for Scientists and Engineers):
+Investigating the Ultimate Mechanisms of Cognition (NSF)
+
+Chris Skalka:
+DOD: YIP - A Language-Based Approach to Wireless Sensor Network Security
+
+10:50 Break
+
+11:10 Research Grant Presentations II (20 minutes each)
+
+Maggie Eppstein:
+NIH: Analysis of a Collaborative Worldwide Network of Neonatal ICUs
+
+Byung Lee: 
+NSF: A Framework for Optimal Approximate Query Evaluation based on
+Workload Forecasting
+
+Xindong Wu:
+NSF CIF:Medium:Collaborative Research: Integrating and Mining Bio-Data
+from Multiple Sources in Biological Networks
+
+12:10 Lunch
+      Provided by the Department
+
+ 1:00 PhD Student Presentations I (15 minutes each)
+
+Saurav Acharya:
+Incremental Causal Network Construction over Event Streams
+(Advisor: Byung Lee)
+
+Joshua Auerbach:
+How Environment Shapes the Way Robot Morphologies Evolve
+(Advisor: Josh Bongard)
+
+Tianyu Cao:
+Active Learning of Model Parameters for Influence Maximization
+(Advisor: Xindong Wu)
+
+Peter Chapin:
+Scalaness
+(Advisor: Chris Skalka)
+
+Karim Chichakly:
+Efficient Differential Evolution of Uniformly-Spaced Robust Solutions
+in Multiobjective Optimization: A Watershed Management Application
+(Advisor: Maggie Eppstein)
+
+ 2:15 Break
+
+ 2:30 PhD Student Presentations II (15 minutes each)
+
+Gary Johnson:
+Modelling Ecosystem Services under Uncertainty with Stochastic SPAN
+(Advisor: Robert Snapp)
+
+Zhao Li:
+Fast Co-clustering with Ranking and Adaptive Sampling
+(Advisor: Xindong Wu)
+
+Jeff Sprenger:
+Toward Real-Time Neuron Tracing under an Optical Microscope
+(Advisor: Maggie Eppstein)
+ 
+Song Wang:
+Tracking the Dynamic Distribution of People in Indoor Space with Fuzzy Partitioning Sensors
+(Advisor: Sean Wang)
+
+Lingbo Yu:
+Macro Molecule Matching
+(Advisor: Michael Radermacher)
+
+ 3:45 Closing
