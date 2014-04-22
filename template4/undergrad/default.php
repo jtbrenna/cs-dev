@@ -12,16 +12,16 @@ include('_undergradsuppnav.html');
 The Department of Computer Science offers three options for undergraduate degrees:
 </p>
 <ul class="spacey">
-<li><a href="http://www.uvm.edu/~cems/cs?Page=undergrad/bscs.php&SM=undergrad/_undergradmenu.html">Bachelor of Science, Major in Computer Science, BS(CS)</a></li>
-<li><a href="http://www.uvm.edu/~cems/cs?Page=undergrad/bscsis.php&amp;SM=undergrad/_undergradmenu.html">Bachelor of Science, Major in Computer Science and Information Systems, BS(CSIS)</a></li>
-<li><a href="http://www.uvm.edu/~cems/cs?Page=undergrad/bacs.php&amp;SM=undergrad/_undergradmenu.html">Bachelor of Arts, Major in Computer Science, BA(CS)
+<li><a href="../?Page=undergrad/bscs.php&SM=undergrad/_undergradmenu.html">Bachelor of Science, Major in Computer Science, BS(CS)</a></li>
+<li><a href="../?Page=undergrad/bscsis.php&amp;SM=undergrad/_undergradmenu.html">Bachelor of Science, Major in Computer Science and Information Systems, BS(CSIS)</a></li>
+<li><a href="../?Page=undergrad/bacs.php&amp;SM=undergrad/_undergradmenu.html">Bachelor of Arts, Major in Computer Science, BA(CS)
 College of Arts and Sciences</a></li>
 </ul>
 
-<p>The Department also offers an <a href="http://www.uvm.edu/~cems/cs?Page=grad/amp.php&amp;SM=grad/_gradmenu.html">Accelerated Master's Program (AMP)</a>, which qualified undergraduates may enter at the end of their junior year and work toward both BS and MS degrees simultaneously.
+<p>The Department also offers an <a href="../?Page=grad/amp.php&amp;SM=grad/_gradmenu.html">Accelerated Master's Program (AMP)</a>, which qualified undergraduates may enter at the end of their junior year and work toward both BS and MS degrees simultaneously.
 </p>
 
-<p>Not looking for a major, then how about our <a href="http://www.uvm.edu/~cems/cs?Page=undergrad/minor-cert.php&SM=undergrad/_undergradmenu.html">
+<p>Not looking for a major, then how about our <a href="../?Page=undergrad/minor-cert.php&SM=undergrad/_undergradmenu.html">
 minor</a>.</p>
 
 <h4>Which Major is for you?</h4>
