@@ -3,11 +3,11 @@
 <h3>Frequently Asked Questions</h3>
 
 <ul>
-<li><a href="../?Page=welcome/faqs.php&SM=welcome/_welcomemenu.html#unique">What is unique about Computer Science at UVM?</a> </li>
-<li><a href="../?Page=welcome/faqs.php&SM=welcome/_welcomemenu.html#jobs">How is the job situation in the field of Computer Science?</a> </li>
-<li><a href="../?Page=welcome/faqs.php&SM=welcome/_welcomemenu.html#reason">Is "getting a job" the only reason to study Computer Science?</a> </li>
-<li><a href="../?Page=welcome/faqs.php&SM=welcome/_welcomemenu.html#prepare">How do you prepare for a career in Computer Science?</a> </li>
-<li><a href="../?Page=welcome/faqs.php&SM=welcome/_welcomemenu.html#contact">Who do I contact for more information?</a> </li>
+<li><a href="../?Page=prospect/faqs.php&SM=_studentmenu.html#unique">What is unique about Computer Science at UVM?</a> </li>
+<li><a href="../?Page=prospect/faqs.php&SM=_studentmenu.html#jobs">How is the job situation in the field of Computer Science?</a> </li>
+<li><a href="../?Page=prospect/faqs.php&SM=_studentmenu.html#reason">Is "getting a job" the only reason to study Computer Science?</a> </li>
+<li><a href="../?Page=prospect/faqs.php&SM=_studentmenu.html#prepare">How do you prepare for a career in Computer Science?</a> </li>
+<li><a href="../?Page=prospect/faqs.php&SM=_studentmenu.html#contact">Who do I contact for more information?</a> </li>
 </ul>
 
 <br /><br />

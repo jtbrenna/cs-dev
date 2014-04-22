@@ -4,7 +4,7 @@
 
 <h4 class="orange">What is Computer Science?</h4>
 
-<a href="http://www.cems.uvm.edu/research/cems/snow/swe.php"><img src="../gfx/charley_swe.jpg" alt="Snow water equivalent (SWE) monitoring with wireless sensor networks" width="190" height="247" border="0" class="alignright" /></a>
+<a href="http://www.cems.uvm.edu/research/cems/snow/swe.php"><img src="../gfx/charley_swe.jpg" alt="Snow water equivalent (SWE) monitoring with wireless sensor networks" width="190" height="247" border="0" class="alignright" style="float:right;"/></a>
 
 <p>Computer science is not just about building computers, writing computer games or creating other programs.  Computer science is the <strong>science of problem solving</strong>. The computer is just one tool that computer scientists use.</p> 
 
@@ -137,13 +137,10 @@ DARPA MSEE Grant Awarded to CEMS Researchers
 <h5>Our Courses in Action</h5>
 
 <p>
-<img class="alignleft" src="../gfx/cs32-maze.jpg" alt="Field trip to the Great Vermont Corn Maze" width="208" height="214" />
 
 <strong>CS32 - Puzzles, Games & Algorithms</strong> &#151; What's the difference between a maze and a labyrinth? How many ways can a Rubik's cube be arranged? What's the real value of a Powerball ticket? Why are puzzles and games fun? You'll discover all this, learn how computers solve puzzles and play games, and more in this introductory computer science course, including a field trip to the Great Vermont Corn Maze.</p>
 
 <p><strong>CS195 - Hands-on Robotics</strong> &#151; In this dynamic class, you'll build a robot using the Lego Mindstorms system. Many technical aspects of robotics, both hardware and software, are explored. But the interpersonal skills required to help complete your team's robot often prove to be equally challenging.</p>
-
-<br />
 
 
 <p>At our annual Computer Science Research Day a keynote address is given by a world-renowned expert on an emerging topic in computing, followed by a day full of faculty and graduate student presentations that showcase our research activities.  <a href="http://www.uvm.edu/~cems/cs/?Page=research/default.php&amp;SM=research/_researchmenu.html">Check out our previous Research Days</a>.</p>
