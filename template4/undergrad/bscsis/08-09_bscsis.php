@@ -1,18 +1,20 @@
 
 <!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<div class="rightcolumn_float">
 <?php
 include('http://www.uvm.edu/~cems/cs/undergrad/_undergradsuppnav.html');
 ?>
+</div>
 
 <h3>BS, Major in CSIS<br >
 2008-09</h3>
 
 <p>
 <strong>Go to Catalogue Year:</strong><br >
-<A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscsis/12-13_bscsis.php&amp;SM=undergrad/_undergradmenu.html">2012-13</A> |
-<A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscsis/11-12_bscsis.php&amp;SM=undergrad/_undergradmenu.html">2011-12</A> |
-<A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscsis/10-11_bscsis.php&amp;SM=undergrad/_undergradmenu.html">2010-11</A> |
-<A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscsis/09-10_bscsis.php&amp;SM=undergrad/_undergradmenu.html">2009-10</A> |
+<A href="../../?Page=undergrad/bscsis/12-13_bscsis.php&amp;SM=undergrad/_undergradmenu.html">2012-13</A> |
+<A href="../../?Page=undergrad/bscsis/11-12_bscsis.php&amp;SM=undergrad/_undergradmenu.html">2011-12</A> |
+<A href="../../?Page=undergrad/bscsis/10-11_bscsis.php&amp;SM=undergrad/_undergradmenu.html">2010-11</A> |
+<A href="../../?Page=undergrad/bscsis/09-10_bscsis.php&amp;SM=undergrad/_undergradmenu.html">2009-10</A> |
 2008-09 |
 <!--Let's clean up:
 <A href="../../?Page=undergrad/bscsis/07-08_bscsis.php&amp;SM=undergrad/_undergradmenu.html">2007-08</A> |
@@ -128,7 +130,7 @@ Your specific sequence may be different from this one. Responsibility for comple
 </p>
 <p>
 The <i>minimum </i>number of academic credits required is 120 plus 2 PEAC credits = 122. This sample program shows 120 academic credits. You must <strong>add</strong> in the 2 PEAC credits.</p>
-<BR><A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscsis/08-09_bscsis-cs21.php&amp;SM=undergrad/_undergradmenu.html">Alternate course
+<BR><A href="../../?Page=undergrad/bscsis/08-09_bscsis-cs21.php&amp;SM=undergrad/_undergradmenu.html">Alternate course
       sequence beginning with CS 21 Computer Programming I (rather than
       CS 0XX)</A>
 

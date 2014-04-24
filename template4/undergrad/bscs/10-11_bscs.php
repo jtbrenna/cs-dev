@@ -1,20 +1,21 @@
 
 <!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<div class="rightcolumn_float">
 <?php
 include('http://www.uvm.edu/~cems/cs/undergrad/_undergradsuppnav.html');
 ?>
-
+</div>
 
 <h3>BS, Major in Computer Science<br >
 2010-11</h3>
 
 <p>
 <strong>Go to Catalogue Year:</strong><br >
-<A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/12-13_bscs.php&amp;SM=undergrad/_undergradmenu.html">2012-13</A> |
-<A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/11-12_bscs.php&amp;SM=undergrad/_undergradmenu.html">2011-12</A> |
+<A href="../../?Page=undergrad/bscs/12-13_bscs.php&amp;SM=undergrad/_undergradmenu.html">2012-13</A> |
+<A href="../../?Page=undergrad/bscs/11-12_bscs.php&amp;SM=undergrad/_undergradmenu.html">2011-12</A> |
 2010-11 |
-<A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/09-10_bscs.php&amp;SM=undergrad/_undergradmenu.html">2009-10</A> |
-<A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/08-09_bscs.php&amp;SM=undergrad/_undergradmenu.html">2008-09</A> |
+<A href="../../?Page=undergrad/bscs/09-10_bscs.php&amp;SM=undergrad/_undergradmenu.html">2009-10</A> |
+<A href="../../?Page=undergrad/bscs/08-09_bscs.php&amp;SM=undergrad/_undergradmenu.html">2008-09</A> |
 <!-- clean up:
 <A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/07-08_bscs.php&amp;SM=undergrad/_undergradmenu.html">2007-08</A> |
 <A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/06-07_bscs.php&amp;SM=undergrad/_undergradmenu.html">2006-07</A> |
@@ -32,9 +33,9 @@ include('http://www.uvm.edu/~cems/cs/undergrad/_undergradsuppnav.html');
 <a href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs.php&amp;SM=undergrad/_undergradmenu.html#sequence">Course Sequence</a> |
 -->
 
-<a href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html#requirements">Requirements</a> |
-<a href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html#sequence">Course Sequence</a> |
-<A href="http://www.uvm.edu/~cems/cs/undergrad/checklist/bscs-check10_11.pdf">Graduation Checklist.pdf</A>
+<a href="../../?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html#requirements">Requirements</a> |
+<a href="../../?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html#sequence">Course Sequence</a> |
+<A href="../../?Page=undergrad/checklist/bscs-check10_11.pdf">Graduation Checklist.pdf</A>
 
 </p>
 
@@ -54,7 +55,7 @@ include('http://www.uvm.edu/~cems/cs/undergrad/_undergradsuppnav.html');
   may be at the 0XX level or above. Students with no programming
   experience may want to take a 3-credit course at the 0XX level with a
   programming component prior to CS 16 or 21.]
-  See <A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html#sequence"
+  See <A href="../../?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html#sequence"
  >Course
   Sequence</A>.]
 	<li> Mathematics (14 credits): 21, 22, two of (121, 124, 173, 271)
@@ -98,7 +99,7 @@ No more than three grades of D+, D, or D- in CS courses numbered 123 and higher.
 <em><strong>Disclaimer:</strong></em>  This information should reflect official Catalogue requirements and is subject to correction.</font>
 </p>
 
-<p class="return"><a href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html">Return to Top </a></p>
+<p class="return"><a href="../../?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html">Return to Top </a></p>
 
 <a name="sequence" id="sequence"></a>
 
@@ -108,13 +109,13 @@ No more than three grades of D+, D, or D- in CS courses numbered 123 and higher.
 <br> Spring: CS 123, 124, 222, 224, 195 Probability Models
 <br>
 <br >
-<A href="http://www.uvm.edu/~cems/cs/undergrad/bscs/sequences/10-11_bscs.pdf">
+<A href="../../?Page=undergrad/bscs/sequences/10-11_bscs.pdf">
          Sample Course Sequence.pdf </A>&nbsp;
 <br >
-<A href="http://www.uvm.edu/~cems/cs/undergrad/bscs/sequences/10-11_bscs-cs21.pdf">
+<A href="../../?Page=undergrad/bscs/sequences/10-11_bscs-cs21.pdf">
          Sample Course Sequence Starting with CS 16 or 21.pdf </A>&nbsp;
 <br >
-<A href="http://www.uvm.edu/~cems/cs/undergrad/bscs/sequences/10-11_bscs-math.pdf">
+<A href="../../?Page=undergrad/bscs/sequences/10-11_bscs-math.pdf">
          Sample Course Sequence Starting with Math 10.pdf </A>&nbsp;
 
 <br><br>
@@ -123,4 +124,4 @@ No more than three grades of D+, D, or D- in CS courses numbered 123 and higher.
 
 </p>
 
-<p class="return"><a href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html">Return to Top </a></p></BODY></HTML>
+<p class="return"><a href="../../?Page=undergrad/bscs/10-11_bscs.php&amp;SM=undergrad/_undergradmenu.html">Return to Top </a></p></BODY></HTML>

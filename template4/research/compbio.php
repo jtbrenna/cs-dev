@@ -1,9 +1,3 @@
-
-<!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
-<?php
-include('_researchsuppnav.html');
-?>
-
 <h3><span class="insideh3">Research</span><br />
 Evolutionary and Agent-Based Computing</h3>
 

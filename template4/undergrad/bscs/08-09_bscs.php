@@ -1,9 +1,10 @@
 
 <!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
+<div class="rightcolumn_float">
 <?php
 include('http://www.uvm.edu/~cems/cs/undergrad/_undergradsuppnav.html');
 ?>
-
+</div>
 
 <h3>BS, Major in Computer Science<br >
 2008-09</h3>
@@ -140,8 +141,8 @@ Your specific sequence may be different from this one. Responsibility for comple
 The <i>minimum</i> number of academic credits required is 120 plus 2 PEAC credits = 122. This sample program shows 120 academic credits. You must <b>add</b> in the 2 PEAC credits. To complete the degree in the minimum number of credits, the required Minor must also be fulfilled within these 120 credits.
 </p>
 <p>
-<a href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/08-09_bscs-math.php&amp;SM=undergrad/_undergradmenu.html">Alternate course sequence beginning with Math 10 (precalculus)</a>
-      <BR><A href="http://www.uvm.edu/~cems/cs/?Page=undergrad/bscs/08-09_bscs-cs21.php&amp;SM=undergrad/_undergradmenu.html">Alternate course sequence beginning with CS 21 Computer Programming I rather than
+<a href="../../?Page=undergrad/bscs/08-09_bscs-math.php&amp;SM=undergrad/_undergradmenu.html">Alternate course sequence beginning with Math 10 (precalculus)</a>
+      <BR><A href="../../?Page=undergrad/bscs/08-09_bscs-cs21.php&amp;SM=undergrad/_undergradmenu.html">Alternate course sequence beginning with CS 21 Computer Programming I rather than
       CS 0XX)</A>.</p>
 </td>
 </tr>

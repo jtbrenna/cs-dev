@@ -1,8 +1,3 @@
-<!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
-<?php
-include('_dmsuppnav.html');
-?>
-
 <h3><span class="insideh3">Research</span><br />
 Data Mining</h3>
 

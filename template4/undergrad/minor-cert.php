@@ -1,11 +1,3 @@
-
-<!-- RIGHT HAND NAVIGATION BOX INCLUDE -->
-<div class="rightcolumn_float">
-<?php
-include('_undergradsuppnav.html');
-?>
-</div>
-
 <h3>Minor / Certificate</h3>
 
 <h4>Minor in Computer Science</h4>
