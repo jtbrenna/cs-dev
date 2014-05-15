@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Rotating Faculty spotlights</title>
+<script type="text/javascript">
+<!--
+var xmlhttp;
+
+//fill an array of file names
+var rotFaculty = new Array("blee.html","bongard.html","douglas.html","erickson.html", "horton.html", "pechenick.html", "skalka.html", "xwu.html");
+
+//"wang.html",
+
+var thisFaculty = 0;
+
+window.onload = rotate; // this causes the rotate function to start
+
+// this function gets the file specified in the url
+function loadXMLDoc(url){
+
+// add path
+//url= "http://www.uvm.edu/~cems/cs/spotlights/" + url;
+
+
+	xmlhttp=null;
+	if (window.XMLHttpRequest) {// code for Firefox, Opera, IE7, etc.
+	  xmlhttp=new XMLHttpRequest();
+  } else if (window.ActiveXObject){// code for IE6, IE5
+	  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+	
+	if (xmlhttp!=null){
+		xmlhttp.onreadystatechange=state_Change;
+		xmlhttp.open("GET",url,true);
+		xmlhttp.send(null);
+  } else {
+		alert("Your browser does not support XMLHTTP.");
+  }
+}
+
+function state_Change(){
+	if (xmlhttp.readyState==4){// 4 = "loaded"
+	  if (xmlhttp.status==200){// 200 = "OK"
+	    document.getElementById('facutlySpotlight').innerHTML=xmlhttp.responseText;
+   	} else {
+    	alert("Problem retrieving data:" + xmlhttp.statusText);
+    }
+  }
+}
+
+// this functions delays for three seconds and then changes the picture being
+// displayed
+function rotate() {
+	thisFaculty++;
+	if (thisFaculty == rotFaculty.length) {  //reach the end and start at the first one
+		thisFaculty = 0;
+	}
+	document.getElementById("facutlySpotlight").innerHTML = loadXMLDoc(rotFaculty[thisFaculty]);
+
+	setTimeout("rotate()", 3 * 1000);  // 3 seconds
+}	
+
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h3>Faculty Spotlight</h3>
+<div id="facutlySpotlight">
+
+</div> <!-- end faculty spotlight -->
+
+<script type="text/javascript">
+<!--
+loadXMLDoc('erickson.html');
+//-->
+</script>
+
+<a href="http://www.uvm.edu/~cems/cs/?Page=spotlights/default.php">See all the faculty</a>
+</body>
+</html>
+
+		
